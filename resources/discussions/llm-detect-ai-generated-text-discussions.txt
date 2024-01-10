@@ -1,0 +1,1254 @@
+Title: Greetings from the Organizers!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452097
+
+Title: New to Machine Learning or Kaggle? Start here.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452138
+
+Title: This Competition has an Official Discord Channel
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452128
+
+Title: 0.963 with BERT - Transformers love diverse data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465882
+
+Title: Meme Thread
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466469
+
+Title: To newcomers
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465227
+
+Title: Superfast Unsupervised Baseline [0.91 LB]
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465156
+
+Title: Mixtral 8x7b Unveiled: Leverage ~4,000 AI generated essays mimicking students style for transforming your model!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466280
+
+Title: Overfitting Or Not Overfitting?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465247
+
+Title: Hyperparameter tuning strategies
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466513
+
+Title: Guide: A day's worth of learning about optimizing RAM usage in Python
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466022
+
+Title: acc0.921 with BidirectionalLSTM & Transformer CNN Approach
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466429
+
+Title: Contrastive Learning Notebook
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466657
+
+Title: Private Generated Data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466171
+
+Title: Relabeling approach
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466172
+
+Title: Licenses of public datasets
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466589
+
+Title: A huge gap between CV and LB
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466384
+
+Title: Reliable CV correlations
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466459
+
+Title: What’s the application of this classification model?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466282
+
+Title: Inferring the LLMs used in test set based on used words
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465443
+
+Title: Don't lose submissions stupidly
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465711
+
+Title: A fully unsupervised method based on clustering
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465465
+
+Title: Which accelerator is used on submit
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466643
+
+Title: Dataset creation error
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465970
+
+Title: [EDA] Making Word Frequency
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466792
+
+Title: Using Huggingface Models with Internet off
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466780
+
+Title: [New Dataset] Mixed sample Dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466395
+
+Title: Novel approach to increase the public score.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466324
+
+Title: Revisit making essay generation with mistral, llama
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465920
+
+Title: how to pip install new packages
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466014
+
+Title: Submitting issues
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466512
+
+Title: Efficiency Leaderboard
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466106
+
+Title: Adding More Data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466122
+
+Title: Clarification request
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465925
+
+Title: Notebook Submission Error
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466264
+
+Title: 🕮 Meet setfit + dataset for offline installation + example notebook
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465804
+
+Title: Predicting without ML based on weighted word frequency
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465752
+
+Title: Importing non-public pretrained model into notebook?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465028
+
+Title: API-based models Gemini & PaLM now in Kaggle Models
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465731
+
+Title: Anyone acquires high scores with LLM?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465025
+
+Title: Interpretable methods shows the non-adversarial setup is very easy?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464562
+
+Title: Even more data (build your own DAIGT data)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466296
+
+Title: 🎄 Santa brings new data 🎄
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463087
+
+Title: Data augmentation in this competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466288
+
+Title: Concern about Notebook runtime (<= 9 Hours)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466004
+
+Title: Essay's length distribution- something that might be considered
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465692
+
+Title: Simple experiments for 7 prompts
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465141
+
+Title: How is CPU Runtime defined ("<=9 hours CPU run time")?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466168
+
+Title: Reasonable tips for ranking up and some personal reflections
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464540
+
+Title: Looking for teammates in Munich
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/466154
+
+Title: [update]Save Everything to speed up (score 0.843 in 30 minutes) test and submission!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464765
+
+Title: Slowly but surely..
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465691
+
+Title: What can cause the kaggle notebook edit page broken and how to repair it?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465373
+
+Title: Revisit efficient prize rules
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464638
+
+Title: Looking for a structured approach for the last 18 days
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465668
+
+Title: Failed submission due to OOM error using the daigt-v3-train-dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465933
+
+Title: revist good discussions to find more ideas and question about the private test data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465643
+
+Title: About Team merge and private notebook sharing and public notebook sharing
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465542
+
+Title: Poor performance of the top shared notebooks on training set cv?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465759
+
+Title: 5 prompts or 7 prompts in the hidden test dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465570
+
+Title: Which Final Dataset to use 🙄🙄
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465161
+
+Title: How to use LB score to choose your notebook/submission/methods used?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465423
+
+Title: About output values consisting of continuous numbers
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464960
+
+Title: Scoring error while submitting the code
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464892
+
+Title: Usage of the winning pipelines.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463834
+
+Title: Need Help! Please take a look.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465754
+
+Title: what did i miss?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465306
+
+Title: Another Gemini Pro LLM - DAIGT - DataSet
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462528
+
+Title: Notebook out of memory
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465706
+
+Title: Submission scoring error
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465684
+
+Title: Notebook Threw Exception Error
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465371
+
+Title: Unable to find 'Submit' button
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465280
+
+Title: False positives are a bigger problem
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463935
+
+Title: how to improve your efficiency rank with the famous magic 961 baseline?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465484
+
+Title: Team merge for efficiency prize
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465467
+
+Title: Persuade Data Set / Test Data / Leakage / Etc.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465088
+
+Title: Need some help:  daughter getting unfairly flagged
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462442
+
+Title: higher score
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464738
+
+Title: Make a powerful train_dataset?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/465019
+
+Title: Submission Notebook Scoring Fails Repeatedly...
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463250
+
+Title: Is it recommended to have balanced distribution of both labels when fine-tuning a language model
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464592
+
+Title: Censorhip on Kaggle [Reversed]
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462307
+
+Title: About private dataset and model
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464745
+
+Title: LLMs poor performance
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464001
+
+Title: GPT4 Rephrased LLM DAIGT Dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462438
+
+Title: Every morning
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459244
+
+Title: Best single model
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464210
+
+Title: why my score is always 0.5? thank you for your help.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464341
+
+Title: Lack of good EDA notebooks
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459269
+
+Title: Create embedding with sentence transformer
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464232
+
+Title: DataParallel baseline
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464417
+
+Title: The difference in prompts' significance in public.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460845
+
+Title: <Seek Help> All zero tf_train sparse matrix
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462961
+
+Title: What should a trained model be learning?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463996
+
+Title: Will the testset be refreshed with newer LLM generated data?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463940
+
+Title: Kernel crashes when trying to run CatBoost model on GPU
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463218
+
+Title: higher score
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463673
+
+Title: Dimensionality Reduction of tfidf features !
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463736
+
+Title: Imbalance in Train
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463986
+
+Title: Cross-Validation Strategies for LLM-Generated Text Classification
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463471
+
+Title: Help!! Can you please look at my code and find what I am doing wrong ?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463417
+
+Title: how about this to generate train data?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461356
+
+Title: Submission timeouts
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/464117
+
+Title: Concerns towards test usage
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463904
+
+Title: Notebook Threw Exception (Solved => worth a try)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463802
+
+Title: Resources & Competitions List
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463254
+
+Title: Help with supervised contrastive loss
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463868
+
+Title: Space period frustration
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462793
+
+Title: Test set probing: considered ok or not?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463178
+
+Title: Regarding the prompts
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463747
+
+Title: More Generated Essays by Gemini-Pro (8.5K)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462757
+
+Title: Insights / Findings till now in the competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457889
+
+Title: Data sampling, but the notebook throws an exception
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463763
+
+Title: Why my score is always 0.5?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463312
+
+Title: 🎅 Happy Christmas !!!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463290
+
+Title: LLM - Detect AI Generated Text
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463469
+
+Title: Does the GPU Notebook <= 9 hours run-time limit include training time? Is there any restriction on the GPU type?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463775
+
+Title: Notebook run successfully, but got notebook threw exception
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463295
+
+Title: More on ROC-AUC
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462327
+
+Title: Am I wrong or the data set is highly unbalanced ?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/463319
+
+Title: Underlying distribution of test data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462849
+
+Title: Vectorizing on test data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461702
+
+Title: 💎 GEMINI PRO LLM DAIGT Dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462347
+
+Title: 0.87 AUC, RNN like models
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462631
+
+Title: Caution: The difference between 0.95 and 0.96+ public notebooks are just GBDT model parameters
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461901
+
+Title: 🔥 10.74k New dataset 🔥
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459775
+
+Title: LLMs to detect AI Generated Text
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462910
+
+Title: Exploring Leaderboard Shake-ups: Uncover Potential Differences Between Public and Private LB! 📊
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462235
+
+Title: Suggestion needed to improve
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462294
+
+Title: new to LLM but really curious any chance to see a shake when private LB comes
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462654
+
+Title: New prompts, new models, new train dataset 😀
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455517
+
+Title: Help needed in tuning of hyperparameters
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462724
+
+Title: You can use Gemini Pro to Generate Examples
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461421
+
+Title: 📝 500 LLM generated essays specifically for this competition! 🚀🚀🚀
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452155
+
+Title: hi iam new to data science iam trying to submit predictions it gives me
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462852
+
+Title: 📚 EDA - Gemini Pro & Original Train Dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462421
+
+Title: How to get nltk downloads?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462761
+
+Title: Detour on ROC AUC - Looking for help
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462164
+
+Title: Use Gemini Pro (No API-Key required)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462623
+
+Title: Oversampling Issue
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462722
+
+Title: Notebook threw exception
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462428
+
+Title: Has there been a change in the Notebook Infra?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462688
+
+Title: Ertuğrul Demir deserves more than just gold medals
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459236
+
+Title: Discrepancy between CV and LB Score
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461916
+
+Title: [Solved] Submission error
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461977
+
+Title: Gunning Fog Index:  Readability Test
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461751
+
+Title: What is the problem with language model in this competition?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462374
+
+Title: Comprehensive Analysis on how does BERT do text-classification?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462297
+
+Title: Evaluating Text
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462206
+
+Title: The dataset contains only a few data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462295
+
+Title: Question about Model Weights and Dataset in Submission
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462116
+
+Title: Artificial Hallucination: Major feature for detecting AI generated Text
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461755
+
+Title: My first kaggle competition, ask for  some advises.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462335
+
+Title: On average how much time does the submissions take to be scored?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461866
+
+Title: Kaggle Code Competitions - Errors & Debugging Tips
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462234
+
+Title: Spelling Woes: The Battle of Correcting Misspellings in my First Kaggle Competition!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461597
+
+Title: T5 deobfuscator
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457819
+
+Title: Unable to get score
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/462026
+
+Title: Test data mimicking Hidden test data - CV 0.97
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457086
+
+Title: An experiment with LLM and log probabilities
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458342
+
+Title: Predicting on sentence level
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461743
+
+Title: Kaggle error again
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461119
+
+Title: There's no real train dataset 😱 so I created one ⚡️
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452401
+
+Title: single model: dev & lb
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460769
+
+Title: How to obtain more GPU time for model training, the current 30 hours are not enough
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461368
+
+Title: Errors in the Training Essays - LanguageTool Checks
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461891
+
+Title: Good datasets suggestions
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461536
+
+Title: [paper] A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461442
+
+Title: Will the training data change during the final evaluation phase?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461809
+
+Title: LLMs generate "predictable" language, predictably.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461317
+
+Title: A general question about the tfidf vectorizer
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461187
+
+Title: Train prompts exact match with PERSUADE corpus / Feedback prize
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452172
+
+Title: Need Help Linking Notebook to Competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461293
+
+Title: Why isn't llm classifiers being used?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461220
+
+Title: [paper] A Survey on Detection of LLMs-Generated Content
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461406
+
+Title: Notebook with competition-compliant NLP packages
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460640
+
+Title: Linking essays in train_essays.csv to PERSUADE corpus
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455711
+
+Title: Finding Issues in Training Dataset with Cleanlab
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461158
+
+Title: [LLM] A "7 Prompts" training dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453410
+
+Title: A couple of questions
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461298
+
+Title: A Survey on LLM-generated Text Detection
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460700
+
+Title: 🧐 Survey of Approaches to the "Obfuscation" Problem
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461292
+
+Title: [0.96] -> [0.875] - Checking for outliers
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460258
+
+Title: New OPENAI classifier for indicating AI-written text - sub-par performance
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461194
+
+Title: Possibility of shakeup?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458477
+
+Title: Turing Test and LLM-Detect AI Generated Text Competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460976
+
+Title: New approach: AuthentiGPT
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459785
+
+Title: Increase ROC Score
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455039
+
+Title: New to Notebook Submissions, problem with RAM
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461116
+
+Title: Find Typos - 0.714 LB in 14 lines of code
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452750
+
+Title: Usage of Rapids for the efficiency prize
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460874
+
+Title: Statastical Methods vs Deep Learning?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/461114
+
+Title: Scores under two approaches (Typos and Clean) with BPE and T5 Obfuscator
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458875
+
+Title: Why did the host shared that exactly 7 prompts were used?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458111
+
+Title: Why GBDTs actually work with Byte-Pair Encoding tokenizer
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459483
+
+Title: How to detect Public LB Overfitting?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460264
+
+Title: Checking for outliers
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460600
+
+Title: Check my sumission.csv file please. (submission scoring error)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460753
+
+Title: [paper] "A large-scale comparison of human-written versus ChatGPT-generated essays"
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458000
+
+Title: Did anyone find the source text in Persuade2.0
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460778
+
+Title: Submission scoring error , after attempting so many times still i couldnt submit can anyone help(fixed it)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453899
+
+Title: Unreliable efficiency leaderboard
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460029
+
+Title: New dataset: 200k+ external essays 🚀
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453372
+
+Title: Question : we submit probability but how can the evaluation be AUC?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460677
+
+Title: Using Custom Tokenizers to Boost Your Score
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458522
+
+Title: Notebook Threw Exception  Your notebook hit an unhandled error while rerunning your code. Note that the hidden dataset can be larger/smaller/different than the public dataset See more debugging tips
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460422
+
+Title: DAIGT - All Data, One place
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459088
+
+Title: Standalone usage of languagetool
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460101
+
+Title: Question on TF-IDF
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460390
+
+Title: Feature Models Working Sub Par Discussion
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459517
+
+Title: Overflowing tokens threw exception
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460099
+
+Title: Are we expected to Generate Train data ourself - only 3 AI Generated essay in train dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452075
+
+Title: Another Approach - Model based on linguistic characeristics
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458444
+
+Title: Train prompts but better reading experience
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459592
+
+Title: How do we submit a model for the efficiency prize?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458671
+
+Title: Any idea to use Textacy and Lexicalrichness?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459273
+
+Title: Should the essay in test essays be human generated ?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/460199
+
+Title: why are people using external datasets?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458919
+
+Title: Encountered errors while submitting public notebooks – Anyone Else?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459458
+
+Title: Is GAN training possible in this competition?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456879
+
+Title: Finding a team to join (for learning)?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458823
+
+Title: New to NLP and looking for suggestions
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459951
+
+Title: Why are the public leaderboard results of fine-tuning based on DeBERTa so poor?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458466
+
+Title: Benchmark
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459303
+
+Title: 🦙 🦅 7k more samples generated by Llama 70b and Falcon 180b 🦙 🦅
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457791
+
+Title: Do the neural network models work for this competition?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459024
+
+Title: Show appreciation for those Professionals & their work on the last LLMs Competition. Don't miss that Golden Opportunity.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452085
+
+Title: How fast does the solution need to be to rank in efficiency Leaderboard?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458454
+
+Title: LLM: [Dataset] Created 4900 Mistral-7B  LLM texts
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456878
+
+Title: How to generate essays?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459411
+
+Title: A lot of the top LB submissions are leaking the test data into the model
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455827
+
+Title: Database not clear to me
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455337
+
+Title: Installing packages permanently in Kaggle notebooks
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458105
+
+Title: [0.941] - Alternative approach - Simulating hidden dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458343
+
+Title: LLM inference for low resources
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457898
+
+Title: A Beginner's Question: Is there a hidden "test_prompts.csv" for prediction when submitting?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458094
+
+Title: Text processing of train is different than test
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458333
+
+Title: usage of pre-trained word embeddings
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/459060
+
+Title: Can't seem to understand how is everyone creating a submission.csv file
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458358
+
+Title: I found some source texts 🔍🗒️
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456698
+
+Title: Introducing JAX for high speed essay generation
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457853
+
+Title: Newbie in Data Science: Seeking Recommendations for Computer Configurations
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457638
+
+Title: Question About AUC with Uniform Predictions
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458711
+
+Title: 3500 Synthetic Essays from #1 7B parameter model (Intel/neural-chat-7b-v3-1) on HuggingFace 🔥
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457901
+
+Title: Why not a dataset tab and a reward!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455806
+
+Title: [NEW DATASET] Let's explore the new dataset for this competition.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457922
+
+Title: Have you been able to make GBDT work?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457443
+
+Title: insufficient data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458589
+
+Title: Noise injection
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458582
+
+Title: Where to Start with this Competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457998
+
+Title: [0.933] - Training with typos and without correction
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457093
+
+Title: Beginner Question: How to validate models?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458319
+
+Title: About LLMs having very unstable results across different runs
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457738
+
+Title: Beginner Question: Why do some Kagglers fit their models on test data?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458248
+
+Title: Why TfidfVectorizer is giving more accuracy than word2vec?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458392
+
+Title: Essay Readability Features for Classification
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457769
+
+Title: Augmented data for LLM - Detect AI Generated Text (more than 400k texts)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456729
+
+Title: [Paper] Ghostbuster: Detecting Text Ghostwritten by Large Language Models
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458218
+
+Title: AI_Text_Identification_Training_Using_Multiple_LMs_LLMs
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458419
+
+Title: Hyperparameter tunning
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458391
+
+Title: Be generous :)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455698
+
+Title: [0.960] Public Notebook Update Record
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457155
+
+Title: Secret test set size
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458107
+
+Title: The difference between daigt_external, Essays_RDizzl3_seven, and the data used during submission scoring
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455056
+
+Title: Typos in the dataset - A first clue
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456142
+
+Title: Generated llm-text and student essays
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457947
+
+Title: Question regarding competition rules
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457462
+
+Title: Results from DNN & TFIDF Experiments Without Fitting on Test Data 0.923
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456563
+
+Title: Deleting dataset from the input schema
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/458077
+
+Title: [0.908] Overfitting the test set, the right way 😛
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455969
+
+Title: Question on the submission
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457990
+
+Title: Submission process for llm-detect-ai-generated-text competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457919
+
+Title: Hand crafted feature - Sentence coherence / number of repeated words?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455953
+
+Title: Dataset with Typos introduced in Top 8 of Efficiency LB!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457488
+
+Title: A note on the languagetool license
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456696
+
+Title: I can't send the competition solution
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457776
+
+Title: How to generate a reliable validation set?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456859
+
+Title: Does TF-IDF Feature Extraction Constitute Data Leakage?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455701
+
+Title: Quick question about the high scoring notebooks
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457212
+
+Title: Don't trust public score
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457365
+
+Title: [LB0.918] Remove typos in test.csv
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456140
+
+Title: On the performance of non-NN detectors
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454448
+
+Title: [0.928] What is a "high enough" score in public notebooks ?!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456382
+
+Title: Offline pip install
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455681
+
+Title: [0.924] - Using PySpell Checker
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456864
+
+Title: How can i approach the problem ?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457263
+
+Title: RDizzl3_seven ?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457166
+
+Title: Different Words in Label 0 and Label 1 Based on 1 N-Grams
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457352
+
+Title: Generating Synthetic Data Locally
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456807
+
+Title: Exact same code (rapids/cuml)  fails in a different notebook - anyone have encountered this problem?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455587
+
+Title: The use of "other" competitions data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457269
+
+Title: Why use external dataset and not the training data provided?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457154
+
+Title: Any New ideas?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457390
+
+Title: Help! New to kaggle. Notebook not getting killed in submission
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457386
+
+Title: Joining an LLM - Detect AI Generated Text team
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457402
+
+Title: Some thoughts on why TF IDF might work better than Embedding models.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456336
+
+Title: Is the dataset "train_essays" correctly labeled ?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457362
+
+Title: TFIDF visulaization
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456128
+
+Title: Error in XGBOOST model
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455506
+
+Title: What 0.5 score can tell us ?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456564
+
+Title: [0.927] - Without Typo correction or Fitting on test data!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456863
+
+Title: N_gram = (4,4) is not valid
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/457118
+
+Title: human essays more likely to have errors than LLM-generated essays
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456251
+
+Title: Weird test dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456994
+
+Title: Resources sharing:  AUCMLoss is designed for AUC metric
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456082
+
+Title: Submitted Notebook finished | But Scoring Failed
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456927
+
+Title: Does a higher score justify bad craftsmanship?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455964
+
+Title: Doom of LLM
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456220
+
+Title: Validation accuracy vs test accuracy
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456904
+
+Title: Submission Error
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456887
+
+Title: Quick question: Is there a variable to indicate if the notebook is running "submission scoring mode"?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456551
+
+Title: Are the FULL prompt instructions and corresponding source texts for the presumed 7 prompts available?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456573
+
+Title: Interesting conflict with LLM detection
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456287
+
+Title: Is everyone getting AUC 0.99 on train ?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456293
+
+Title: Experimenting with introducing typos into the dataset!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455895
+
+Title: Correcting typos in test data - [0.908]
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456116
+
+Title: Question : Why linear models are outperforming LLMS?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456197
+
+Title: [0.911]Ablation Study for Using different data set to extract feature by using TfidfVectorizer
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455997
+
+Title: [0.911] Keras NLP Starter Notebook + TFIDF Vectorization
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456309
+
+Title: ~30k targets
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456648
+
+Title: The most human sentence
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455562
+
+Title: Problems with fitting on hidden test data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456556
+
+Title: Scoring Test for Submission
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452635
+
+Title: Ghostbuster: Detecting text ghostwritten by LLMS
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455640
+
+Title: Understanding Kaggle Evaluation Metrics: Unraveling the Mystery Behind Mixing Public Test Data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456474
+
+Title: Are the prompts available in the hidden test set? If so, how do I access them in my code?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456046
+
+Title: Notebook submission
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456442
+
+Title: Efficiency prize should focus more on Size?!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456253
+
+Title: Urgent. Notebook Threw Exception on submission. Help me
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456631
+
+Title: looking for a team
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454046
+
+Title: Urgent: Need Help with Kaggle Submission - "Failed Submission" Issue
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456569
+
+Title: Lots of TF-IDF getting +0.9 score
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455886
+
+Title: Just Because
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454947
+
+Title: What preprocessing to use? deberta_v3_preprocessor? TfidfVectorizer?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456008
+
+Title: Submission CSV Not Found
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456056
+
+Title: OMG Google Palm, are you serious???
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455281
+
+Title: I am trying to digest and understand this statement guys !!!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455663
+
+Title: Feature importance - feature_log_prob_ TfidfVectorizer MultinomialNB
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455885
+
+Title: XGBoost beats top LLM Models - here are the features!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454702
+
+Title: Training and Predicting on two different notebooks
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455375
+
+Title: A question on evaluation on public scores
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456097
+
+Title: Notebook threw exception
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455571
+
+Title: Outside competition but asking for help from masters
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455502
+
+Title: Could I use gpt4?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452397
+
+Title: 🦙 Llama 70b and 🦅Falcon 180b generated data!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452464
+
+Title: [Your name]
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/456028
+
+Title: added weight from baseline，the Lb  0.896
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454684
+
+Title: train_drcat_04 - Hand crafted features - Difference between training and submission data
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455655
+
+Title: Problems loading dataset
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455976
+
+Title: Possible ways to detect LLM model generated text
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454873
+
+Title: [General LLM Question] How can LLMs copy/paste a piece of text ?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453936
+
+Title: Why not fix the LLM essay dataset?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454525
+
+Title: Characteristics of LLM vs Human generated essays
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454673
+
+Title: Submission Prompts
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455599
+
+Title: Submission Target Score
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455762
+
+Title: More data (GPT-4 this time) + a new Datasets GM 👀
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452649
+
+Title: Feature generation, I'm getting somewhere!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455771
+
+Title: Let the game begin - CV vs LB scores
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452624
+
+Title: Relevant Top Solutions
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454563
+
+Title: How to use package that is not installed in Kaggle Notebook while competition doesn't allow to use internet?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454250
+
+Title: Is Llama2 license acceptable in this competition?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454009
+
+Title: DAIGT | Starter Pack 🚀
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452600
+
+Title: Is the text generated by **a variety of LLM from the **same family** like Llama family/ Llama2 family/ MPT family or Falcon Family? Can we just train one LLM and see the autoregressive loss?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455010
+
+Title: joining or creating LLM detect team
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452558
+
+Title: A single large dataset for training?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455204
+
+Title: Related research papers with different approaches
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454115
+
+Title: How was the data processed? Strange findings
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452279
+
+Title: New to text classification competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/455107
+
+Title: Reliable CV?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454725
+
+Title: Using language-tool-python (grammar corrector) without internet, yes, it’s possible!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453950
+
+Title: ChatGPT3.5 knows how to do it ;-)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452068
+
+Title: Interpreting a leaderboard score of 0.914 on just the second day of the competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452491
+
+Title: Sharing Relevant paper and technology
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454235
+
+Title: Looking for a team
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454854
+
+Title: LLM Inference Using CPU Offloading
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453991
+
+Title: choosing llama over deberta
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452761
+
+Title: Possible Missing Source Texts
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453753
+
+Title: Tried 70B models ?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453418
+
+Title: API needed?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452570
+
+Title: 2 stage pretraining approach(with provided data)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454328
+
+Title: [score 0.854] Simple baseline using Mistral-7B, LoRA, and 4-bit quantization
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452362
+
+Title: OpenAI tried to classify AI generated texts and failed
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453398
+
+Title: FYI: OpenAI, Google, others pledge to watermark AI content for safety, ...
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452363
+
+Title: Hello, Claude! 1000 essays from Anthropic... 💥🚀
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453101
+
+Title: Extremely Imbalance? [1000:3]🥲
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452224
+
+Title: 🔮🏆 Top White Papers and Resources for this competition - Detecting AI-Generated Text 📚💥
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452592
+
+Title: SpyCy use.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454581
+
+Title: The hardware limitation of this competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453362
+
+Title: Prompt file necessary??
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454183
+
+Title: LLAMA 13B on TPU for Detect AI - no quantazation, no lora!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453014
+
+Title: 🔥Papers with Code for this Competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452508
+
+Title: Demystifying the ROC Curve  📈
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452236
+
+Title: Probablly usefull github repo + reserch paper.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453481
+
+Title: Better to read this article before facing the competition
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453417
+
+Title: How to use prompts & source texts from training data?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/454344
+
+Title: How to fix "module 'torch' has no attribute '_running_with_deploy? On Llama2.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453057
+
+Title: This does not seem ethical
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452566
+
+Title: Human like mistakes added to AI generated samples
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453283
+
+Title: Fix grammar mistakes for an easy score boost!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452793
+
+Title: Be careful with AUC metric
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452259
+
+Title: Papers on Detecting AI Generated Text
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452383
+
+Title: ArguGPT: +4000 AI-generated essays!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452641
+
+Title: DeepFake Text Datasets
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452919
+
+Title: External Dataset - Persuade Corpus (26k argumentative essays)
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452127
+
+Title: We need to improve our prompt engineering game!
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452536
+
+Title: A simple script to use ChatGPT to generate essays
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452526
+
+Title: Need Assistance with PyTorch DeBERTa v3 Code Debugging Issue.
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453725
+
+Title: Grade Level or Type of Students Writing the Essays
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452372
+
+Title: Interesting Take Finding Hapaxes
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452852
+
+Title: Kickstarter Resources to consider  as reference  for detecting AI Generated text
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452721
+
+Title: problem with accessing tokenizer for mistral
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452805
+
+Title: 📖 A catch if you generate synthetic essays with LLM to tackle imbalanced data ⚠️
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452262
+
+Title: Can't find Test Prompts
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452115
+
+Title: Can we use data from past kaggle competitions?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452126
+
+Title: What aspects should we consider this competition?
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452217
+
+Title: Change in Kaggle Hardware
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452311
+
+Title: The problem of model prediction bias
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452389
+
+Title: Model Stops while validation
+URL: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/452374
+

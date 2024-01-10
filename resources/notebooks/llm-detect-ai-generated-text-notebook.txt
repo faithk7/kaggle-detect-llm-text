@@ -1,0 +1,1848 @@
+Title: Detect LLM Text - Efficiency LB
+ URL: https://www.kaggle.com/code/ryanholbrook/detect-llm-text-efficiency-lb
+
+Title: Detect Fake Text: KerasNLP [TF/Torch/JAX][Train]
+ URL: https://www.kaggle.com/code/awsaf49/detect-fake-text-kerasnlp-tf-torch-jax-train
+
+Title: Detect Fake Text: KerasNLP [TF/Torch/JAX][Infer]
+ URL: https://www.kaggle.com/code/awsaf49/detect-fake-text-kerasnlp-tf-torch-jax-infer
+
+Title: Detect AI text
+ URL: https://www.kaggle.com/code/user7979/detect-ai-text
+
+Title: Detecting AI Generated Text - CNN vs XGBoost
+ URL: https://www.kaggle.com/code/aaronogle/detecting-ai-generated-text-cnn-vs-xgboost
+
+Title: DAIGT - Contrastive Learning + tSNE + W&B [Train]
+ URL: https://www.kaggle.com/code/serjhenrique/daigt-contrastive-learning-tsne-w-b-train
+
+Title: Train your own custom tokenizer
+ URL: https://www.kaggle.com/code/pushpendramishra5027/train-your-own-custom-tokenizer
+
+Title: AI Text Detection & Prediction
+ URL: https://www.kaggle.com/code/abdelrahmanahmed110/ai-text-detection-prediction
+
+Title: [acc0.921]BidirectionLSTM&Transformer CNN Approach
+ URL: https://www.kaggle.com/code/ichigoe/acc0-921-bidirectionlstm-transformer-cnn-approach
+
+Title: DAIGT - Mixed Paragraph Dataset
+ URL: https://www.kaggle.com/code/serjhenrique/daigt-mixed-paragraph-dataset
+
+Title: spelling_mistake
+ URL: https://www.kaggle.com/code/rishavdash/spelling-mistake
+
+Title: LLM public score 0.961+
+ URL: https://www.kaggle.com/code/cuboorandell/llm-public-score-0-961
+
+Title: dswts-xgboost
+ URL: https://www.kaggle.com/code/maciejzajecki/dswts-xgboost
+
+Title: Langchain+GPTwGemini_Build_Your_Custom_DAIGT_data
+ URL: https://www.kaggle.com/code/hli111111/langchain-gptwgemini-build-your-custom-daigt-data
+
+Title: [inference]DetectAI DistilRoberta[0.913]👍
+ URL: https://www.kaggle.com/code/mustafakeser4/inference-detectai-distilroberta-0-913
+
+Title: Cluster + Sentence Transformer
+ URL: https://www.kaggle.com/code/minhsienweng/cluster-sentence-transformer
+
+Title: AI Generated Text Detection - cluster
+ URL: https://www.kaggle.com/code/cpmpml/ai-generated-text-detection-cluster
+
+Title: Detect AI Generated Text
+ URL: https://www.kaggle.com/code/youxuanlim/detect-ai-generated-text
+
+Title: AI generated text detection on kaggle dataset
+ URL: https://www.kaggle.com/code/pushpendramishra5027/ai-generated-text-detection-on-kaggle-dataset
+
+Title: Approachable Solution
+ URL: https://www.kaggle.com/code/suryanshsharma1/approachable-solution
+
+Title: XLnet_CNN
+ URL: https://www.kaggle.com/code/riteshbhalerao/xlnet-cnn
+
+Title: LLM-Generated-Detector
+ URL: https://www.kaggle.com/code/amanmukati/llm-generated-detector
+
+Title: LLM - Detect AI Generated Text USIING Transformers
+ URL: https://www.kaggle.com/code/alnourabdalrahman9/llm-detect-ai-generated-text-usiing-transformers
+
+Title: EDA_LLM-Detect_日本語向け
+ URL: https://www.kaggle.com/code/cheesegue/eda-llm-detect
+
+Title: Choose your words wisely 2.0: Human vs. AI
+ URL: https://www.kaggle.com/code/valentinwerner/choose-your-words-wisely-2-0-human-vs-ai
+
+Title: DAIGT960SaveEverything-tfidfParas
+ URL: https://www.kaggle.com/code/chg0901/daigt960saveeverything-tfidfparas
+
+Title: sparse_dot_topn - Word Experiments
+ URL: https://www.kaggle.com/code/valentinwerner/sparse-dot-topn-word-experiments
+
+Title: Educational Notebook about NLP: EDA & Modeling
+ URL: https://www.kaggle.com/code/eraikako/educational-notebook-about-nlp-eda-modeling
+
+Title: Choose your words wisely: Human vs. AI
+ URL: https://www.kaggle.com/code/valentinwerner/choose-your-words-wisely-human-vs-ai
+
+Title: NJ-AI-Classification-with-data-leakage
+ URL: https://www.kaggle.com/code/lookb4uplay/nj-ai-classification-with-data-leakage
+
+Title: [Train]BertBase
+ URL: https://www.kaggle.com/code/namuvn/train-bertbase
+
+Title: Bidirectional_LSTM_LLM_AI_Detection
+ URL: https://www.kaggle.com/code/rajkumardubey10/bidirectional-lstm-llm-ai-detection
+
+Title: [GPU Infer] Mistral-7b
+ URL: https://www.kaggle.com/code/minhsienweng/gpu-infer-mistral-7b
+
+Title: Mistral essay generation
+ URL: https://www.kaggle.com/code/defdet/mistral-essay-generation
+
+Title: Conv1D + LSTM approach
+ URL: https://www.kaggle.com/code/pshikk/conv1d-lstm-approach
+
+Title: LLM - Detect AI Generated Text - RNN Baseline
+ URL: https://www.kaggle.com/code/bmart80/llm-detect-ai-generated-text-rnn-baseline
+
+Title: LLM Detect: N-gram Probability [中文]
+ URL: https://www.kaggle.com/code/finlay/llm-detect-n-gram-probability
+
+Title: Llm-detect-ai-generated-text
+ URL: https://www.kaggle.com/code/v1o1oo/llm-detect-ai-generated-text
+
+Title: |LLM| AI Detection Contest
+ URL: https://www.kaggle.com/code/haiber/llm-ai-detection-contest
+
+Title: LightGBM Model+Feature Engineering+TF-IDF Vectoriz
+ URL: https://www.kaggle.com/code/serhiikharchuk/lightgbm-model-feature-engineering-tf-idf-vectoriz
+
+Title: Download Marian Model
+ URL: https://www.kaggle.com/code/sambitmukherjee/download-marian-model
+
+Title: RandomForest 🎈
+ URL: https://www.kaggle.com/code/yassinabdulmahdi/randomforest
+
+Title: Setfit Sample Notebook
+ URL: https://www.kaggle.com/code/snassimr/setfit-sample-notebook
+
+Title: nlpaug_DAIGT_v2
+ URL: https://www.kaggle.com/code/sambitmukherjee/nlpaug-daigt-v2
+
+Title: bert LLM
+ URL: https://www.kaggle.com/code/rajkumardubey10/bert-llm
+
+Title: MultinomialNB(single model)0.916
+ URL: https://www.kaggle.com/code/myominhtet/multinomialnb-single-model-0-916
+
+Title: Detect AI Generated Text - Dataset
+ URL: https://www.kaggle.com/code/koushiksahu/detect-ai-generated-text-dataset
+
+Title: CNN_MODEL  🎈
+ URL: https://www.kaggle.com/code/yassinabdulmahdi/cnn-model
+
+Title: tuning LLM 🚀
+ URL: https://www.kaggle.com/code/mohanapriyan/tuning-llm
+
+Title: AI-generated_text_detector_1DConv_cchoi
+ URL: https://www.kaggle.com/code/cchoiii11/ai-generated-text-detector-1dconv-cchoi
+
+Title: Pytorch-LLM-Text
+ URL: https://www.kaggle.com/code/vinitkp/pytorch-llm-text
+
+Title: LLM - DAIGText - [0.961] 2fde01
+ URL: https://www.kaggle.com/code/zskagcomp/llm-daigtext-0-961-2fde01
+
+Title: LLM Generated text detection
+ URL: https://www.kaggle.com/code/zhuior/llm-generated-text-detection
+
+Title: Detect LLM Generated Text using DistilBert (0.94)
+ URL: https://www.kaggle.com/code/alnourabdalrahman9/detect-llm-generated-text-using-distilbert-0-94
+
+Title: [labelling]-Detect-AI-interactive-labelling-tool
+ URL: https://www.kaggle.com/code/mustafakeser4/labelling-detect-ai-interactive-labelling-tool
+
+Title: Vectorize with Sentence-Transformers [LB: 0.77]
+ URL: https://www.kaggle.com/code/yuhaya9/vectorize-with-sentence-transformers-lb-0-77
+
+Title: Clean Code | Detect AI Generated
+ URL: https://www.kaggle.com/code/mfmfmf3/clean-code-detect-ai-generated
+
+Title: download_emotion_&_sentiment_models
+ URL: https://www.kaggle.com/code/sambitmukherjee/download-emotion-sentiment-models
+
+Title: DAIGT V2 Train Dataset (Yalın v1)
+ URL: https://www.kaggle.com/code/marangoz/daigt-v2-train-dataset-yal-n-v1
+
+Title: LLM_Generation_Detection_using_Bert
+ URL: https://www.kaggle.com/code/ahmedtaha8889/llm-generation-detection-using-bert
+
+Title: Keras Text Classification from Scratch
+ URL: https://www.kaggle.com/code/mustafakeser4/keras-text-classification-from-scratch
+
+Title: LLM-AI
+ URL: https://www.kaggle.com/code/ankitmaddheshiya/llm-ai
+
+Title: Detecting LLM Generated text
+ URL: https://www.kaggle.com/code/saurav9786/detecting-llm-generated-text
+
+Title: LLM_TEXT(Transformers)
+ URL: https://www.kaggle.com/code/indubarnwal/llm-text-transformers
+
+Title: LLM Text Detection
+ URL: https://www.kaggle.com/code/rishabjagga/llm-text-detection
+
+Title: LLM-detect-ai-text
+ URL: https://www.kaggle.com/code/vivekyogi/llm-detect-ai-text
+
+Title: LLM-Detect AI Text | Getting Started
+ URL: https://www.kaggle.com/code/sunny7712/llm-detect-ai-text-getting-started
+
+Title: download_textstat_&_stopwords
+ URL: https://www.kaggle.com/code/sambitmukherjee/download-textstat-stopwords
+
+Title: AI or Not AI? Delving Into Essays with EDA
+ URL: https://www.kaggle.com/code/denisding/ai-or-not-ai-delving-into-essays-with-eda
+
+Title: DAIGT Superfast Unsupervised Baseline
+ URL: https://www.kaggle.com/code/aerdem4/daigt-superfast-unsupervised-baseline
+
+Title: BertCuda+LightGBM+TF-IDF features
+ URL: https://www.kaggle.com/code/serhiikharchuk/bertcuda-lightgbm-tf-idf-features
+
+Title: LLM Text Detection with LSTM
+ URL: https://www.kaggle.com/code/sineer666/llm-text-detection-with-lstm
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/satishsathawane/llm-detect-ai-generated-text
+
+Title: NO-ML-Detect-AI-[0.664]
+ URL: https://www.kaggle.com/code/mustafakeser4/no-ml-detect-ai-0-664
+
+Title: Submission
+ URL: https://www.kaggle.com/code/thelastbugs/submission
+
+Title: Codigo_5
+ URL: https://www.kaggle.com/code/shelitodelgado/codigo-5
+
+Title: Codigo_4
+ URL: https://www.kaggle.com/code/shelitodelgado/codigo-4
+
+Title: Codigo_3
+ URL: https://www.kaggle.com/code/shelitodelgado/codigo-3
+
+Title: NJ-AI-Classification-DL
+ URL: https://www.kaggle.com/code/lookb4uplay/nj-ai-classification-dl
+
+Title: word embedding
+ URL: https://www.kaggle.com/code/yitounian/word-embedding
+
+Title: LLM-Detect AI Generated Notebook
+ URL: https://www.kaggle.com/code/sauravmishraa/llm-detect-ai-generated-notebook
+
+Title: Daigt-V2-train-dataset-with-Typos
+ URL: https://www.kaggle.com/code/murugesann/daigt-v2-train-dataset-with-typos
+
+Title: Detect AI Generated Text [Train][Torch|DistilBERT]
+ URL: https://www.kaggle.com/code/shrinidhi9/detect-ai-generated-text-train-torch-distilbert
+
+Title: Código_02
+ URL: https://www.kaggle.com/code/shelitodelgado/c-digo-02
+
+Title: Detecting LLM generated texts
+ URL: https://www.kaggle.com/code/suyashkapil/detecting-llm-generated-texts
+
+Title: LLM - DAIGText - [0.961]
+ URL: https://www.kaggle.com/code/zskagcomp/llm-daigtext-0-961
+
+Title: llm.ipynb
+ URL: https://www.kaggle.com/code/masinya67/llm-ipynb
+
+Title: SentencePiece Constructions
+ URL: https://www.kaggle.com/code/denisding/sentencepiece-constructions
+
+Title: Detect LLM Fake Text -scikit-learn library
+ URL: https://www.kaggle.com/code/tauter/detect-llm-fake-text-scikit-learn-library
+
+Title: Deberta-first try
+ URL: https://www.kaggle.com/code/igalriklin/deberta-first-try
+
+Title: notebook09454a1782
+ URL: https://www.kaggle.com/code/meetp2997/notebook09454a1782
+
+Title: Explained BPE Tokenizer & TF-IDF Vectorizer
+ URL: https://www.kaggle.com/code/yeyuuu/explained-bpe-tokenizer-tf-idf-vectorizer
+
+Title: LLM Text Detection with CNN
+ URL: https://www.kaggle.com/code/lonnieqin/llm-text-detection-with-cnn
+
+Title: LLM Text Detection with LSTM
+ URL: https://www.kaggle.com/code/lonnieqin/llm-text-detection-with-lstm
+
+Title: notebook8c45273a5a
+ URL: https://www.kaggle.com/code/biswanathbose/notebook8c45273a5a
+
+Title: 🕖7️⃣ SE7EN PROMPTS ✋✌️
+ URL: https://www.kaggle.com/code/verracodeguacas/7-se7en-prompts
+
+Title: notebook820f02cae2
+ URL: https://www.kaggle.com/code/huyryu/notebook820f02cae2
+
+Title: IRTMFinal
+ URL: https://www.kaggle.com/code/b10705052/irtmfinal
+
+Title: LLMDet Inference
+ URL: https://www.kaggle.com/code/itsuki9180/llmdet-inference
+
+Title: notebookf0d55a9692
+ URL: https://www.kaggle.com/code/wu468ef/notebookf0d55a9692
+
+Title: LLMDet Multi-GPU&DeepSpeed Train w/ HF🤗Accelerate
+ URL: https://www.kaggle.com/code/itsuki9180/llmdet-multi-gpu-deepspeed-train-w-hf-accelerate
+
+Title: LLM DAIGT Analyse edge cases
+ URL: https://www.kaggle.com/code/pandas007/llm-daigt-analyse-edge-cases
+
+Title: notebookb18e01f3f9
+ URL: https://www.kaggle.com/code/symonmwenewungu/notebookb18e01f3f9
+
+Title: MJ LLM detect AI comp Mistral-7B
+ URL: https://www.kaggle.com/code/majingms/mj-llm-detect-ai-comp-mistral-7b
+
+Title: [Train]DebertaV3
+ URL: https://www.kaggle.com/code/namuvn/train-debertav3
+
+Title: SentencePiece Constructions
+ URL: https://www.kaggle.com/code/jshtang/sentencepiece-constructions
+
+Title: P-tuning
+ URL: https://www.kaggle.com/code/maxtrox/p-tuning
+
+Title: Meta Classifier
+ URL: https://www.kaggle.com/code/zhangyue199/meta-classifier
+
+Title: LLM text generation evaluation using DeBerta + RF
+ URL: https://www.kaggle.com/code/arviinndn/llm-text-generation-evaluation-using-deberta-rf
+
+Title: DistilBertClassifier from Scratch with 🤗
+ URL: https://www.kaggle.com/code/carrot1500/distilbertclassifier-from-scratch-with
+
+Title: LLM - Detect AI Generated Text using DAIGText
+ URL: https://www.kaggle.com/code/zakirkhanaleemi/llm-detect-ai-generated-text-using-daigtext
+
+Title: Explained LLM Model
+ URL: https://www.kaggle.com/code/boketto/explained-llm-model
+
+Title: LLM - Detect AI Generated Text _shashi
+ URL: https://www.kaggle.com/code/shashishekhar6352/llm-detect-ai-generated-text-shashi
+
+Title: Analysis: Predicting on Out-of-Distribution Data
+ URL: https://www.kaggle.com/code/treblemaker123/analysis-predicting-on-out-of-distribution-data
+
+Title: DetectionModel_Ensemble
+ URL: https://www.kaggle.com/code/owaislone/detectionmodel-ensemble
+
+Title: Simple TF-IDF + Classifier
+ URL: https://www.kaggle.com/code/treblemaker123/simple-tf-idf-classifier
+
+Title: EDA - GEMINI PRO & ORIGINAL LLM DAIGT Dataset
+ URL: https://www.kaggle.com/code/etiennekaiser/eda-gemini-pro-original-llm-daigt-dataset
+
+Title: LLM Competition Using gloVe with Voting Classifier
+ URL: https://www.kaggle.com/code/jshtang/llm-competition-using-glove-with-voting-classifier
+
+Title: BERT LLM Detection
+ URL: https://www.kaggle.com/code/dafaaqilla/bert-llm-detection
+
+Title: notebookdccd7f6ae5
+ URL: https://www.kaggle.com/code/andrewmartinezphd/notebookdccd7f6ae5
+
+Title: Mixture of (Prompt) Specialists
+ URL: https://www.kaggle.com/code/carrot1500/mixture-of-prompt-specialists
+
+Title: Detailed Explanation - Custom Tokenizer
+ URL: https://www.kaggle.com/code/erikfolkesson/detailed-explanation-custom-tokenizer
+
+Title: NM-LLM-AI-Detect-CorrectingTypos
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-ai-detect-correctingtypos
+
+Title: TF-IDF detect ai
+ URL: https://www.kaggle.com/code/vojtchslavk/tf-idf-detect-ai
+
+Title: Detect_AI_Text
+ URL: https://www.kaggle.com/code/taiheekim/detect-ai-text
+
+Title: Detect AI LLM [inference]
+ URL: https://www.kaggle.com/code/vojtchslavk/detect-ai-llm-inference
+
+Title: Roc-Auc Sensitivity Experiments
+ URL: https://www.kaggle.com/code/sorkun/roc-auc-sensitivity-experiments
+
+Title: KerasNLP LLM - Detect AI Generate
+ URL: https://www.kaggle.com/code/vinodkumargurjar/kerasnlp-llm-detect-ai-generate
+
+Title: Detect AI LLM [train]
+ URL: https://www.kaggle.com/code/vojtchslavk/detect-ai-llm-train
+
+Title: Detected essays LLM-AI
+ URL: https://www.kaggle.com/code/fabianaguirrechavez/detected-essays-llm-ai
+
+Title: LLM - DAIGText - [0.961]
+ URL: https://www.kaggle.com/code/yongsukprasertsuk/llm-daigtext-0-961
+
+Title: DeepLearningAITextDetection
+ URL: https://www.kaggle.com/code/zainalinasir/deeplearningaitextdetection
+
+Title: D05_transfer_learning_model_02
+ URL: https://www.kaggle.com/code/yugamjayant/d05-transfer-learning-model-02
+
+Title: notebook039189929a
+ URL: https://www.kaggle.com/code/amanace/notebook039189929a
+
+Title: AI Generated Text Detection with DistilBert
+ URL: https://www.kaggle.com/code/lonnieqin/ai-generated-text-detection-with-distilbert
+
+Title: LLM Detection
+ URL: https://www.kaggle.com/code/adriansaati/llm-detection
+
+Title: Two-Stages: Prompt Prediction + Custom Models
+ URL: https://www.kaggle.com/code/hsinhungwu/two-stages-prompt-prediction-custom-models
+
+Title: NM-LLM-AI-Datasey-6
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-ai-datasey-6
+
+Title: LLM DAIGT Analyse edge cases
+ URL: https://www.kaggle.com/code/batprem/llm-daigt-analyse-edge-cases
+
+Title: FinalProject_ML
+ URL: https://www.kaggle.com/code/nurfarahfauziah/finalproject-ml
+
+Title: Use Gemini to Create Student Essays
+ URL: https://www.kaggle.com/code/datafan07/use-gemini-to-create-student-essays
+
+Title: LLM Fine-Tuning Using P-Tuning (Hyperparam Tuning)
+ URL: https://www.kaggle.com/code/sdlee94/llm-fine-tuning-using-p-tuning-hyperparam-tuning
+
+Title: Just Length
+ URL: https://www.kaggle.com/code/shrutimechlearn/just-length
+
+Title: Compare⚖️ Persuade w/ Train & Reproduce Transform
+ URL: https://www.kaggle.com/code/stopwhispering/compare-persuade-w-train-reproduce-transform
+
+Title: LLM Detect: External Data Collection
+ URL: https://www.kaggle.com/code/finlay/llm-detect-external-data-collection
+
+Title: LLM - Detecting AI Generated Text
+ URL: https://www.kaggle.com/code/erikfolkesson/llm-detecting-ai-generated-text
+
+Title: AI Generated Distilbert w/ext, split
+ URL: https://www.kaggle.com/code/stpeteishii/ai-generated-distilbert-w-ext-split
+
+Title: AI Generated flan t-5 w/ext, split
+ URL: https://www.kaggle.com/code/stpeteishii/ai-generated-flan-t-5-w-ext-split
+
+Title: AI Generated albert-xlarge w/ext, split
+ URL: https://www.kaggle.com/code/stpeteishii/ai-generated-albert-xlarge-w-ext-split
+
+Title: AI Generated roberta_large w/ext, split
+ URL: https://www.kaggle.com/code/stpeteishii/ai-generated-roberta-large-w-ext-split
+
+Title: LLM Detect: Text Cluster [中文]
+ URL: https://www.kaggle.com/code/finlay/llm-detect-text-cluster
+
+Title: ML_FinalProject_RafaelBaez
+ URL: https://www.kaggle.com/code/rafaelbaez/ml-finalproject-rafaelbaez
+
+Title: Predicting AI Generation with LM Score Features
+ URL: https://www.kaggle.com/code/carrot1500/predicting-ai-generation-with-lm-score-features
+
+Title: Detecting Fake Text: infer - NLP
+ URL: https://www.kaggle.com/code/zakirkhanaleemi/detecting-fake-text-infer-nlp
+
+Title: Alex_public - 0.959 - Balanced data by prompt_name
+ URL: https://www.kaggle.com/code/alexmoura2023/alex-public-0-959-balanced-data-by-prompt-name
+
+Title: ml+nn
+ URL: https://www.kaggle.com/code/joonyeongs/ml-nn
+
+Title: NJ-AI-Classification
+ URL: https://www.kaggle.com/code/lookb4uplay/nj-ai-classification
+
+Title: DAIGT - make mockup test set
+ URL: https://www.kaggle.com/code/jkimiscoding/daigt-make-mockup-test-set
+
+Title: LLM🤖 / Student✍ - N-Gram Feature Importance❗
+ URL: https://www.kaggle.com/code/stopwhispering/llm-student-n-gram-feature-importance
+
+Title: AI Generated deberta-large w/ext, split
+ URL: https://www.kaggle.com/code/stpeteishii/ai-generated-deberta-large-w-ext-split
+
+Title: DAIGT - Stylometric Voting clf
+ URL: https://www.kaggle.com/code/serjhenrique/daigt-stylometric-voting-clf
+
+Title: AI generated text prediction- new edited
+ URL: https://www.kaggle.com/code/jwjane/ai-generated-text-prediction-new-edited
+
+Title: llm report
+ URL: https://www.kaggle.com/code/junghyukchoi/llm-report
+
+Title: Testing Pipeline
+ URL: https://www.kaggle.com/code/arindamroy23/testing-pipeline
+
+Title: Ai text detection
+ URL: https://www.kaggle.com/code/nguyenvietdat/ai-text-detection
+
+Title: LLM DAIGT CV_0.9983~LB_0.960 67a7be
+ URL: https://www.kaggle.com/code/shhrkre/llm-daigt-cv-0-9983-lb-0-960-67a7be
+
+Title: Colin's learning method1 LLM
+ URL: https://www.kaggle.com/code/colin4ever/colin-s-learning-method1-llm
+
+Title: TF-IDF with simple NN
+ URL: https://www.kaggle.com/code/joonyeongs/tf-idf-with-simple-nn
+
+Title: LLM : 20 feature Xgboost after deobfuscation
+ URL: https://www.kaggle.com/code/vbmokin/llm-20-feature-xgboost-after-deobfuscation
+
+Title: LLM - TF-IDF Vectorization
+ URL: https://www.kaggle.com/code/sasidharanm10/llm-tf-idf-vectorization
+
+Title: LLM Detect 0 to 1 [中文]
+ URL: https://www.kaggle.com/code/finlay/llm-detect-0-to-1
+
+Title: LLM | 🪄 19 Magic Features
+ URL: https://www.kaggle.com/code/ianchute/llm-19-magic-features
+
+Title: s and LLM_analysis
+ URL: https://www.kaggle.com/code/gagandeep44489/s-and-llm-analysis
+
+Title: Detect AI Generated Text with ConV
+ URL: https://www.kaggle.com/code/sasidharanm10/detect-ai-generated-text-with-conv
+
+Title: AI generated text prediction
+ URL: https://www.kaggle.com/code/shuvendumoharana/ai-generated-text-prediction
+
+Title: cnn-text-classification
+ URL: https://www.kaggle.com/code/joonyeongs/cnn-text-classification
+
+Title: 567llm
+ URL: https://www.kaggle.com/code/suzyzzzz/567llm
+
+Title: BERT Fine-Tuning to detect LLM generated text
+ URL: https://www.kaggle.com/code/adityamac/bert-fine-tuning-to-detect-llm-generated-text
+
+Title: Text_EDA
+ URL: https://www.kaggle.com/code/arindamroy23/text-eda
+
+Title: llmstudy
+ URL: https://www.kaggle.com/code/dhattori/llmstudy
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/sasidharanm10/llm-detect-ai-generated-text
+
+Title: languagetool-cmd
+ URL: https://www.kaggle.com/code/tsobolev/languagetool-cmd
+
+Title: Return Overflowing Tokens
+ URL: https://www.kaggle.com/code/jdonnelly0804/return-overflowing-tokens
+
+Title: Colin's adjustment of Baseline
+ URL: https://www.kaggle.com/code/colin4ever/colin-s-adjustment-of-baseline
+
+Title: 0.96 score
+ URL: https://www.kaggle.com/code/malabhbakshi/0-96-score
+
+Title: LLM: Generate HQ Dataset w/ Mistral (RAG)
+ URL: https://www.kaggle.com/code/pranshubahadur/llm-generate-hq-dataset-w-mistral-rag
+
+Title: dagi fasttext
+ URL: https://www.kaggle.com/code/bulivington/dagi-fasttext
+
+Title: LLM DAIGT
+ URL: https://www.kaggle.com/code/malabhbakshi/llm-daigt
+
+Title: Detect LLM written essay
+ URL: https://www.kaggle.com/code/ericliu365/detect-llm-written-essay
+
+Title: [GPU train]  Mistral-7b| Deberta with optuna
+ URL: https://www.kaggle.com/code/minhsienweng/gpu-train-mistral-7b-deberta-with-optuna
+
+Title: LLM_Detect_using_Doc2Vec
+ URL: https://www.kaggle.com/code/ahmedmagdy16/llm-detect-using-doc2vec
+
+Title: SkorchBNN-1-with-test-data
+ URL: https://www.kaggle.com/code/murugesann/skorchbnn-1-with-test-data
+
+Title: LLM_Embed_Layer_over_RetNet
+ URL: https://www.kaggle.com/code/ahmedmagdy16/llm-embed-layer-over-retnet
+
+Title: AI Detection By Pre-trained Embedding over ConvNet
+ URL: https://www.kaggle.com/code/ahmedmagdyhosney/ai-detection-by-pre-trained-embedding-over-convnet
+
+Title: LLM Competition Using Random Forest
+ URL: https://www.kaggle.com/code/ahmedmagdyhosney/llm-competition-using-random-forest
+
+Title: Skorch BNN+BPE
+ URL: https://www.kaggle.com/code/grafael/skorch-bnn-bpe
+
+Title: LLM-Detection_Model
+ URL: https://www.kaggle.com/code/tafartech/llm-detection-model
+
+Title: Pure Regression with large dataset
+ URL: https://www.kaggle.com/code/simengxu/pure-regression-with-large-dataset
+
+Title: lightgbm_firstsubmission
+ URL: https://www.kaggle.com/code/kazumaishii/lightgbm-firstsubmission
+
+Title: [0.960] LLM DAIGT Sub - mod weights
+ URL: https://www.kaggle.com/code/yongsukprasertsuk/0-960-llm-daigt-sub-mod-weights
+
+Title: Generate Synthetic Essays with Mistral-7B Instruct
+ URL: https://www.kaggle.com/code/manishkumar77/generate-synthetic-essays-with-mistral-7b-instruct
+
+Title: LLM Preprocessing + CatBoost
+ URL: https://www.kaggle.com/code/ilhansevval/llm-preprocessing-catboost
+
+Title: notebook_1
+ URL: https://www.kaggle.com/code/ilknurzgen/notebook-1
+
+Title: LLM - EDLD 654 final
+ URL: https://www.kaggle.com/code/seulbibaileylee/llm-edld-654-final
+
+Title: LLM AI-Generated Detect with Embed Layer
+ URL: https://www.kaggle.com/code/ahmedmagdy16/llm-ai-generated-detect-with-embed-layer
+
+Title: XGBoost
+ URL: https://www.kaggle.com/code/jaimielouie/xgboost
+
+Title: LLM svm model with average sentence length
+ URL: https://www.kaggle.com/code/ekuras/llm-svm-model-with-average-sentence-length
+
+Title: LLM -  Detect AI Generated Text -Bert
+ URL: https://www.kaggle.com/code/rishavsanson/llm-detect-ai-generated-text-bert
+
+Title: Conv1D approach
+ URL: https://www.kaggle.com/code/pshikk/conv1d-approach
+
+Title: dagi fasttext
+ URL: https://www.kaggle.com/code/aleron751/dagi-fasttext
+
+Title: LLM DAIGT validation
+ URL: https://www.kaggle.com/code/batprem/llm-daigt-validation
+
+Title: LLM-Detect AI generated text-tfidf-additional data
+ URL: https://www.kaggle.com/code/thuytruong/llm-detect-ai-generated-text-tfidf-additional-data
+
+Title: DAIGT: Submission mocked up
+ URL: https://www.kaggle.com/code/batprem/daigt-submission-mocked-up
+
+Title: chexk
+ URL: https://www.kaggle.com/code/nidhipriya123/chexk
+
+Title: [LB0.957]
+ URL: https://www.kaggle.com/code/xiaocao123/lb0-957
+
+Title: Detect AI-Generated Essays
+ URL: https://www.kaggle.com/code/jamalcao/detect-ai-generated-essays
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/saihemanth14/llm-detect-ai-generated-text
+
+Title: Essay classifier
+ URL: https://www.kaggle.com/code/deepthipuvvada/essay-classifier
+
+Title: LLM DAIGT Preprocessing bypass & Catboost added
+ URL: https://www.kaggle.com/code/amulil/llm-daigt-preprocessing-bypass-catboost-added
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/ruthwikgangavelli/llm-detect-ai-generated-text
+
+Title: AI Generated Text Detection - Quick Baseline
+ URL: https://www.kaggle.com/code/hemanthkj/ai-generated-text-detection-quick-baseline
+
+Title: 🏗️🪚🪜 SentencePiece Constructions 🔩🚧🧱 406b87
+ URL: https://www.kaggle.com/code/xiaocao123/sentencepiece-constructions-406b87
+
+Title: AIGC detection
+ URL: https://www.kaggle.com/code/chenxiguan/aigc-detection
+
+Title: [0.956] LLM DAIGT Sub (mod weights)
+ URL: https://www.kaggle.com/code/yongsukprasertsuk/0-956-llm-daigt-sub-mod-weights
+
+Title: LLM-A-1
+ URL: https://www.kaggle.com/code/leodcaprio/llm-a-1
+
+Title: notebooka2e6a97d37
+ URL: https://www.kaggle.com/code/mayakaripel/notebooka2e6a97d37
+
+Title: Voting Classifier (LR + SGD + XGBoost)
+ URL: https://www.kaggle.com/code/hridaym25/voting-classifier-lr-sgd-xgboost
+
+Title: Train your own Tokenizer
+ URL: https://www.kaggle.com/code/xiaocao123/train-your-own-tokenizer
+
+Title: Ensemble Voting Classifier with PreTokenizer
+ URL: https://www.kaggle.com/code/ilhansevval/ensemble-voting-classifier-with-pretokenizer
+
+Title: Explained LLM Model
+ URL: https://www.kaggle.com/code/zulqarnainali/explained-llm-model
+
+Title: notebook54448e2e8b
+ URL: https://www.kaggle.com/code/mayakaripel/notebook54448e2e8b
+
+Title: LLM DAIGT CV_0.9983~LB_0.960
+ URL: https://www.kaggle.com/code/batprem/llm-daigt-cv-0-9983-lb-0-960
+
+Title: Detect AI Generated Text - XGBClassifier
+ URL: https://www.kaggle.com/code/haseebwar07/detect-ai-generated-text-xgbclassifier
+
+Title: LLM DAIGT Sub
+ URL: https://www.kaggle.com/code/siddhvr/llm-daigt-sub
+
+Title: Battle of the Algorithms
+ URL: https://www.kaggle.com/code/fermingarcia/battle-of-the-algorithms
+
+Title: Train your own Tokenizer (mod weights)
+ URL: https://www.kaggle.com/code/yongsukprasertsuk/train-your-own-tokenizer-mod-weights
+
+Title: LLM - Detect AI generated text - TF-IDF
+ URL: https://www.kaggle.com/code/thuytruong/llm-detect-ai-generated-text-tf-idf
+
+Title: notebookbe71f3d92e
+ URL: https://www.kaggle.com/code/mayakaripel/notebookbe71f3d92e
+
+Title: [CS221.O11] deberta_v3_base_en
+ URL: https://www.kaggle.com/code/namuvn/cs221-o11-deberta-v3-base-en
+
+Title: roberta_det
+ URL: https://www.kaggle.com/code/janderchu/roberta-det
+
+Title: notebook528d63d39c
+ URL: https://www.kaggle.com/code/renitasequeira/notebook528d63d39c
+
+Title: Bi-LSTM approach
+ URL: https://www.kaggle.com/code/pshikk/bi-lstm-approach
+
+Title: NM-LLM-AI-Detect-Vectorizer-Model
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-ai-detect-vectorizer-model
+
+Title: notebook21bcf0aa67
+ URL: https://www.kaggle.com/code/nursentore/notebook21bcf0aa67
+
+Title: RetentiveGuard: Unmasking LLM-Generated Essays
+ URL: https://www.kaggle.com/code/vineetjhaa03/retentiveguard-unmasking-llm-generated-essays
+
+Title: NM-LLM-AI-Detect-MetricModel
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-ai-detect-metricmodel
+
+Title: notebook4f57f14dab
+ URL: https://www.kaggle.com/code/sjoonpark/notebook4f57f14dab
+
+Title: LLM - Detect AI Generated Text using TFIDF
+ URL: https://www.kaggle.com/code/jenilgajjar/llm-detect-ai-generated-text-using-tfidf
+
+Title: LLM: SVC
+ URL: https://www.kaggle.com/code/jenilgajjar/llm-svc
+
+Title: datasets EDA
+ URL: https://www.kaggle.com/code/aljapotonik/datasets-eda
+
+Title: NM-LLM-AI-Detect-Dataset-5
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-ai-detect-dataset-5
+
+Title: 🏗️🪚🪜 SentencePiece Constructions 🔩🚧🧱
+ URL: https://www.kaggle.com/code/verracodeguacas/sentencepiece-constructions
+
+Title: LLM - Detect AI Generated Text using SVM
+ URL: https://www.kaggle.com/code/jenilgajjar/llm-detect-ai-generated-text-using-svm
+
+Title: Detect_AI_Generated_Text
+ URL: https://www.kaggle.com/code/mohdrafi/detect-ai-generated-text
+
+Title: SYDE-599
+ URL: https://www.kaggle.com/code/kirtankanani/syde-599
+
+Title: pytorch-based-LLM-model
+ URL: https://www.kaggle.com/code/ktoprakucar/pytorch-based-llm-model
+
+Title: Generate text (GRU) + TensorFlow NN
+ URL: https://www.kaggle.com/code/xpehutta/generate-text-gru-tensorflow-nn
+
+Title: tf-idf
+ URL: https://www.kaggle.com/code/hirakuhasegawa/tf-idf
+
+Title: LLM-Detect AI-GT Sub GEC
+ URL: https://www.kaggle.com/code/sorokin/llm-detect-ai-gt-sub-gec
+
+Title: CountVectorizer MultinomialNB
+ URL: https://www.kaggle.com/code/al1337/countvectorizer-multinomialnb
+
+Title: Modeling Submission
+ URL: https://www.kaggle.com/code/scr0ll0/modeling-submission
+
+Title: JAX LLAMA essay generation
+ URL: https://www.kaggle.com/code/defdet/jax-llama-essay-generation
+
+Title: essay-gec
+ URL: https://www.kaggle.com/code/sorokin/essay-gec
+
+Title: # LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/fathimashemeema/llm-detect-ai-generated-text
+
+Title: NEWSTART - LLM-Detect AI-GT Sub
+ URL: https://www.kaggle.com/code/donghunlim/newstart-llm-detect-ai-gt-sub
+
+Title: llama_cpp01
+ URL: https://www.kaggle.com/code/simonveitner/llama-cpp01
+
+Title: noise-essays
+ URL: https://www.kaggle.com/code/sorokin/noise-essays
+
+Title: dagi gptpp
+ URL: https://www.kaggle.com/code/aleron751/dagi-gptpp
+
+Title: Latent Dirichlet Allocation + pandas
+ URL: https://www.kaggle.com/code/gabrielbuchhorn/latent-dirichlet-allocation-pandas
+
+Title: Ensemble Learning with Voting Classifier - 5
+ URL: https://www.kaggle.com/code/ilhansevval/ensemble-learning-with-voting-classifier-5
+
+Title: AI Generated Text CountVectorizer + LGBM
+ URL: https://www.kaggle.com/code/stpeteishii/ai-generated-text-countvectorizer-lgbm
+
+Title: notebook1769542190
+ URL: https://www.kaggle.com/code/gshbao123/notebook1769542190
+
+Title: AI Generated Text CountVectorizer + RandomForest
+ URL: https://www.kaggle.com/code/stpeteishii/ai-generated-text-countvectorizer-randomforest
+
+Title: 1MNB&1SGD
+ URL: https://www.kaggle.com/code/lovemaid/1mnb-1sgd
+
+Title: [DAIGT] Readability Features for Classification
+ URL: https://www.kaggle.com/code/phanisrikanth/daigt-readability-features-for-classification
+
+Title: persuade
+ URL: https://www.kaggle.com/code/sorokin/persuade
+
+Title: Ayaka
+ URL: https://www.kaggle.com/code/ayakakoba/ayaka
+
+Title: [한국어 번역ver.]Detect Fake Text: KerasNLP
+ URL: https://www.kaggle.com/code/wksdnr123/ver-detect-fake-text-kerasnlp
+
+Title: LLM Detect AI Generated Text for Beginners
+ URL: https://www.kaggle.com/code/rachanabv14/llm-detect-ai-generated-text-for-beginners
+
+Title: Naive_Bayes
+ URL: https://www.kaggle.com/code/ravindra1010/naive-bayes
+
+Title: LLM - Detect AI Generated Text-3
+ URL: https://www.kaggle.com/code/bhanupratapbiswas/llm-detect-ai-generated-text-3
+
+Title: DAGT-Gzip text clf:A Parameter-Free Clf
+ URL: https://www.kaggle.com/code/pamin2222/dagt-gzip-text-clf-a-parameter-free-clf
+
+Title: [0.941] LLM-Detect AI-GT (1MNB&1SGD)
+ URL: https://www.kaggle.com/code/yongsukprasertsuk/0-941-llm-detect-ai-gt-1mnb-1sgd
+
+Title: Balanced Weights & Longer Training -> Higher Score
+ URL: https://www.kaggle.com/code/lizhecheng/balanced-weights-longer-training-higher-score
+
+Title: AI texts generated using "gpt2"
+ URL: https://www.kaggle.com/code/fekihmea/ai-texts-generated-using-gpt2
+
+Title: LLM - Detect AI Generated Text Using Multinomial
+ URL: https://www.kaggle.com/code/jenilgajjar/llm-detect-ai-generated-text-using-multinomial
+
+Title: Ensemble Learning with Voting Classifier - 4
+ URL: https://www.kaggle.com/code/ilhansevval/ensemble-learning-with-voting-classifier-4
+
+Title: Voting-Model
+ URL: https://www.kaggle.com/code/sayedshaun/voting-model
+
+Title: 唐人街探案  2 - ChatGLM2
+ URL: https://www.kaggle.com/code/mpwolke/2-chatglm2
+
+Title: LLM - Detect AI Generated Text-02
+ URL: https://www.kaggle.com/code/bhanupratapbiswas/llm-detect-ai-generated-text-02
+
+Title: Starter Notebook
+ URL: https://www.kaggle.com/code/malabhbakshi/starter-notebook
+
+Title: [DAIGT] Cluster & Explore 7 prompts dataset
+ URL: https://www.kaggle.com/code/phanisrikanth/daigt-cluster-explore-7-prompts-dataset
+
+Title: Text Analysis with TF-IDF: Uncovering Unique Words
+ URL: https://www.kaggle.com/code/yavuzhanbaykara/text-analysis-with-tf-idf-uncovering-unique-words
+
+Title: Detect AI DeBERTa PyTorch [Train + Infer]
+ URL: https://www.kaggle.com/code/noured/detect-ai-deberta-pytorch-train-infer
+
+Title: 0.937|AIDetector - Remove special character in LLM
+ URL: https://www.kaggle.com/code/phucpx/0-937-aidetector-remove-special-character-in-llm
+
+Title: [TPU train] Mistral-7b|Llama-2 detection
+ URL: https://www.kaggle.com/code/minhsienweng/tpu-train-mistral-7b-llama-2-detection
+
+Title: Detect AI Generated Text With Scikit Learn
+ URL: https://www.kaggle.com/code/giabchnguyn/detect-ai-generated-text-with-scikit-learn
+
+Title: LLM Generated or not
+ URL: https://www.kaggle.com/code/hariharanalm/llm-generated-or-not
+
+Title: AI text generated detection baseline 0.933 LB
+ URL: https://www.kaggle.com/code/farisalahmdi/ai-text-generated-detection-baseline-0-933-lb
+
+Title: Generate Synthetic Essays with Mistral-7B Instruct
+ URL: https://www.kaggle.com/code/phanisrikanth/generate-synthetic-essays-with-mistral-7b-instruct
+
+Title: [Multiple Approaches][Basics to Advanced]
+ URL: https://www.kaggle.com/code/suraj520/multiple-approaches-basics-to-advanced
+
+Title: Ensemble Learning with Voting Classifier - 3
+ URL: https://www.kaggle.com/code/ilhansevval/ensemble-learning-with-voting-classifier-3
+
+Title: Using the augmented data
+ URL: https://www.kaggle.com/code/jdragonxherrera/using-the-augmented-data
+
+Title: NM-LLM-AI-Detection-WithTypos-CV
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-ai-detection-withtypos-cv
+
+Title: N-gram CNN Model
+ URL: https://www.kaggle.com/code/jagdmir/n-gram-cnn-model
+
+Title: NM-LLM-AI-Detection-SGD+DNN-1
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-ai-detection-sgd-dnn-1
+
+Title: LogReg dummy
+ URL: https://www.kaggle.com/code/barinoffn/logreg-dummy
+
+Title: NM-LLM-Detect-AI-TypoCorrect-Testdata-PySpell-2
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-detect-ai-typocorrect-testdata-pyspell-2
+
+Title: How to use a Tokenizer?
+ URL: https://www.kaggle.com/code/tonyyunyang99/how-to-use-a-tokenizer
+
+Title: LLM-DECTECT-AI-GENERATED-TEXT
+ URL: https://www.kaggle.com/code/tmleyncodes/llm-dectect-ai-generated-text
+
+Title: llm-detect-ai-generated-text-humbleyl
+ URL: https://www.kaggle.com/code/humbleyll/llm-detect-ai-generated-text-humbleyl
+
+Title: LLM-Detect AI-GT LB:0.931
+ URL: https://www.kaggle.com/code/yavuzhanbaykara/llm-detect-ai-gt-lb-0-931
+
+Title: LLM - Detect AI Generated Text (CPU Semi)
+ URL: https://www.kaggle.com/code/tonyyunyang99/llm-detect-ai-generated-text-cpu-semi
+
+Title: LLM - Detect AI Generated Text (CPU)
+ URL: https://www.kaggle.com/code/tonyyunyang99/llm-detect-ai-generated-text-cpu
+
+Title: Essay Classification- KERASNLP Transformer Encoder
+ URL: https://www.kaggle.com/code/jagdmir/essay-classification-kerasnlp-transformer-encoder
+
+Title: Fork of Text Generated SVM
+ URL: https://www.kaggle.com/code/fekihmea/fork-of-text-generated-svm
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/enricomanosperti/llm-detect-ai-generated-text
+
+Title: notebookc547b33cac
+ URL: https://www.kaggle.com/code/hrithiman/notebookc547b33cac
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/atiebr/llm-detect-ai-generated-text
+
+Title: Getting started withXGBoost
+ URL: https://www.kaggle.com/code/muhammadtayyab212/getting-started-withxgboost
+
+Title: LLM - Detect AI Generated Text (Quick Baseline)
+ URL: https://www.kaggle.com/code/tonyyunyang99/llm-detect-ai-generated-text-quick-baseline
+
+Title: Modeling with Validation
+ URL: https://www.kaggle.com/code/scr0ll0/modeling-with-validation
+
+Title: Correcting Typo Experiment 0.9
+ URL: https://www.kaggle.com/code/minhtien1405/correcting-typo-experiment-0-9
+
+Title: Exploratory Data Analysis
+ URL: https://www.kaggle.com/code/scr0ll0/exploratory-data-analysis
+
+Title: AI Generated Text- LLM
+ URL: https://www.kaggle.com/code/bhanupratapbiswas/ai-generated-text-llm
+
+Title: Ensemble Learning with Voting Classifier - 2
+ URL: https://www.kaggle.com/code/ilhansevval/ensemble-learning-with-voting-classifier-2
+
+Title: Exploring Ensemble Learning with Voting Classifier
+ URL: https://www.kaggle.com/code/ilhansevval/exploring-ensemble-learning-with-voting-classifier
+
+Title: Detect Fake Text: KerasNLP -nm-inf
+ URL: https://www.kaggle.com/code/murugesann/detect-fake-text-kerasnlp-nm-inf
+
+Title: Detect AI-GT Sub
+ URL: https://www.kaggle.com/code/bhanupratapbiswas/detect-ai-gt-sub
+
+Title: NM-LLM-Detect-AI-Text-CorrectTypo-1
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-detect-ai-text-correcttypo-1
+
+Title: Unified Text Classification Pipeline
+ URL: https://www.kaggle.com/code/zulqarnainali/unified-text-classification-pipeline
+
+Title: CNN with attention for AI text detection
+ URL: https://www.kaggle.com/code/ponderpiece/cnn-with-attention-for-ai-text-detection
+
+Title: use typo number to predict
+ URL: https://www.kaggle.com/code/mullerf/use-typo-number-to-predict
+
+Title: [0.908] Don't try this at home
+ URL: https://www.kaggle.com/code/nahman/0-908-don-t-try-this-at-home
+
+Title: notebook18863db93f
+ URL: https://www.kaggle.com/code/pypiahmad/notebook18863db93f
+
+Title: notebook7309ae766b
+ URL: https://www.kaggle.com/code/yoolimhan/notebook7309ae766b
+
+Title: notebook5873e96c8f
+ URL: https://www.kaggle.com/code/sakurakinomoto/notebook5873e96c8f
+
+Title: PERSUADE -> train essays analysis
+ URL: https://www.kaggle.com/code/nbroad/persuade-train-essays-analysis
+
+Title: Detect LLM generated essays using Retention
+ URL: https://www.kaggle.com/code/pranshubahadur/detect-llm-generated-essays-using-retention
+
+Title: CountVectorizer:1,8 SGDClf vec.fit(df_test)
+ URL: https://www.kaggle.com/code/almaluijben/countvectorizer-1-8-sgdclf-vec-fit-df-test
+
+Title: Experiment using X_test
+ URL: https://www.kaggle.com/code/al1337/experiment-using-x-test
+
+Title: Bert Sequence Classification
+ URL: https://www.kaggle.com/code/deltawi/bert-sequence-classification
+
+Title: LLM: Make 5 prompt train dataset (v4)
+ URL: https://www.kaggle.com/code/junglebeastds/llm-make-5-prompt-train-dataset-v4
+
+Title: Predict with DAIGT V3 Train Dataset
+ URL: https://www.kaggle.com/code/thedrcat/predict-with-daigt-v3-train-dataset
+
+Title: mistral_train_experiment
+ URL: https://www.kaggle.com/code/robber19/mistral-train-experiment
+
+Title: LLM Text Classifier - PyTorch MLP
+ URL: https://www.kaggle.com/code/br0grammer/llm-text-classifier-pytorch-mlp
+
+Title: TfidfVectorizer VotingClassifier
+ URL: https://www.kaggle.com/code/al1337/tfidfvectorizer-votingclassifier
+
+Title: feature_log_prob_ TfidfVectorizer MultinomialNB
+ URL: https://www.kaggle.com/code/al1337/feature-log-prob-tfidfvectorizer-multinomialnb
+
+Title: AI Generated Text Detection - Quick Baseline 0
+ URL: https://www.kaggle.com/code/pamilovedl/ai-generated-text-detection-quick-baseline-0
+
+Title: Feature engineering from subset: Decisio
+ URL: https://www.kaggle.com/code/al1337/feature-engineering-from-subset-decisio
+
+Title: Without grammer correction
+ URL: https://www.kaggle.com/code/mrgarlic/without-grammer-correction
+
+Title: CountVec: 1, 4 MulNB vec.fit(X_test)
+ URL: https://www.kaggle.com/code/al1337/countvec-1-4-mulnb-vec-fit-x-test
+
+Title: Create X, write to disk to disk, create "Add data"
+ URL: https://www.kaggle.com/code/al1337/create-x-write-to-disk-to-disk-create-add-data
+
+Title: drcat_02 -> TfidfVectorizer
+ URL: https://www.kaggle.com/code/al1337/drcat-02-tfidfvectorizer
+
+Title: LLM essay detection
+ URL: https://www.kaggle.com/code/imnandini/llm-essay-detection
+
+Title: CountVectorizer feature_importances
+ URL: https://www.kaggle.com/code/al1337/countvectorizer-feature-importances
+
+Title: Text Preprocessing, Oversampling & Baseline Sub...
+ URL: https://www.kaggle.com/code/awaldeep/text-preprocessing-oversampling-baseline-sub
+
+Title: EDA: Using embeddings
+ URL: https://www.kaggle.com/code/santiagopedroza/eda-using-embeddings
+
+Title: Exploratory Data Analysis
+ URL: https://www.kaggle.com/code/newtonbaba12345/exploratory-data-analysis
+
+Title: Upsampling_use7pv3_VotingClf_AllData_ModWeight_0.9
+ URL: https://www.kaggle.com/code/pamin2222/upsampling-use7pv3-votingclf-alldata-modweight-0-9
+
+Title: Multinomial Naive Baye
+ URL: https://www.kaggle.com/code/nanthiphatsangworn/multinomial-naive-baye
+
+Title: dagi group cv dacc68
+ URL: https://www.kaggle.com/code/bulivington/dagi-group-cv-dacc68
+
+Title: VotingClf_AllData_ModWeight_0.899
+ URL: https://www.kaggle.com/code/pamin2222/votingclf-alldata-modweight-0-899
+
+Title: notebook06c0ce7d67
+ URL: https://www.kaggle.com/code/yoojiinn/notebook06c0ce7d67
+
+Title: 20 feature Xgboost
+ URL: https://www.kaggle.com/code/tivfrvqhs5/20-feature-xgboost
+
+Title: LLM Generated Text Detection
+ URL: https://www.kaggle.com/code/msarvesh/llm-generated-text-detection
+
+Title: Just Because
+ URL: https://www.kaggle.com/code/tivfrvqhs5/just-because
+
+Title: Train your own Tokenizer
+ URL: https://www.kaggle.com/code/datafan07/train-your-own-tokenizer
+
+Title: Mistral FT
+ URL: https://www.kaggle.com/code/robber19/mistral-ft
+
+Title: Using Confidence To Determine The Weights
+ URL: https://www.kaggle.com/code/newtonbaba12345/using-confidence-to-determine-the-weights
+
+Title: LLM Essay Detection
+ URL: https://www.kaggle.com/code/dipayancodes/llm-essay-detection
+
+Title: AI Generated Text Detection - Tfidf + SGD CV'ed
+ URL: https://www.kaggle.com/code/thomasmeiner/ai-generated-text-detection-tfidf-sgd-cv-ed
+
+Title: We detecting now
+ URL: https://www.kaggle.com/code/ponderpiece/we-detecting-now
+
+Title: 0.815|Word2vec for begginers
+ URL: https://www.kaggle.com/code/hubert101/0-815-word2vec-for-begginers
+
+Title: 0.838 RidgeClf SVD=9 CountVec
+ URL: https://www.kaggle.com/code/al1337/0-838-ridgeclf-svd-9-countvec
+
+Title: [0.938]AIGTextDetection-3SGD&3MNB
+ URL: https://www.kaggle.com/code/chenbaoying/0-938-aigtextdetection-3sgd-3mnb
+
+Title: AI GTD (weight lr+sgd+rf)
+ URL: https://www.kaggle.com/code/andrusha95/ai-gtd-weight-lr-sgd-rf
+
+Title: LLM-Detect AI-GT Sub
+ URL: https://www.kaggle.com/code/siddhvr/llm-detect-ai-gt-sub
+
+Title: AI Generated Text Detection - Quick Baselin f6d640
+ URL: https://www.kaggle.com/code/guochangzhang/ai-generated-text-detection-quick-baselin-f6d640
+
+Title: 0.863|TFIDFVectorizer for begginers
+ URL: https://www.kaggle.com/code/hubert101/0-863-tfidfvectorizer-for-begginers
+
+Title: mod_weight_0.897 AI Generated Text Detection -QB
+ URL: https://www.kaggle.com/code/pamin2222/mod-weight-0-897-ai-generated-text-detection-qb
+
+Title: AI Generated Text Detection - add new data
+ URL: https://www.kaggle.com/code/xiaocao123/ai-generated-text-detection-add-new-data
+
+Title: Detect AI EDA & tensorflow 0.91
+ URL: https://www.kaggle.com/code/umar47/detect-ai-eda-tensorflow-0-91
+
+Title: Detect AI Generated Text: SVC baseline
+ URL: https://www.kaggle.com/code/carlmcbrideellis/detect-ai-generated-text-svc-baseline
+
+Title: Text Generated SVM
+ URL: https://www.kaggle.com/code/fekihmea/text-generated-svm
+
+Title: notebookb2c3954d9f
+ URL: https://www.kaggle.com/code/furqan676/notebookb2c3954d9f
+
+Title: 0.827|CountVectorizer for begginers
+ URL: https://www.kaggle.com/code/hubert101/0-827-countvectorizer-for-begginers
+
+Title: 🕵️‍♂️[Train] Detect Authors - EDA📊 + PyTorch
+ URL: https://www.kaggle.com/code/utcarshagrawal/train-detect-authors-eda-pytorch
+
+Title: AI Generated Text (mod weight+add more data) 0.929
+ URL: https://www.kaggle.com/code/yongsukprasertsuk/ai-generated-text-mod-weight-add-more-data-0-929
+
+Title: PaLM API |Generative AI
+ URL: https://www.kaggle.com/code/jocelyndumlao/palm-api-generative-ai
+
+Title: DAIGT Mistral-7B TPU BFloat16 [Train]
+ URL: https://www.kaggle.com/code/markwijkhuizen/daigt-mistral-7b-tpu-bfloat16-train
+
+Title: Random Forest and XGBoost ensemble!
+ URL: https://www.kaggle.com/code/iteachmachines/random-forest-and-xgboost-ensemble
+
+Title: PlusSVC_.887_AIGenerated Text Detection
+ URL: https://www.kaggle.com/code/pamin2222/plussvc-887-aigenerated-text-detection
+
+Title: llm Machine learning model.nb
+ URL: https://www.kaggle.com/code/dankabhi98/llm-machine-learning-model-nb
+
+Title: DAIGT Mistral-7B TPU BFloat16 [Inference]
+ URL: https://www.kaggle.com/code/markwijkhuizen/daigt-mistral-7b-tpu-bfloat16-inference
+
+Title: 0.863/83.7s|TfidfVec ngram_range=(1, 1) VotingClf
+ URL: https://www.kaggle.com/code/al1337/0-863-83-7s-tfidfvec-ngram-range-1-1-votingclf
+
+Title: LLM - Detect AI Generated Text 1.0 EDA
+ URL: https://www.kaggle.com/code/gowthamrajgoku/llm-detect-ai-generated-text-1-0-eda
+
+Title: AI Generated Text Detection - Quick Baselin SGD
+ URL: https://www.kaggle.com/code/xiaocao123/ai-generated-text-detection-quick-baselin-sgd
+
+Title: Detect-AI-Generated-features-1
+ URL: https://www.kaggle.com/code/murugesann/detect-ai-generated-features-1
+
+Title: LLM: 7 prompt train dataset
+ URL: https://www.kaggle.com/code/susishengg/llm-7-prompt-train-dataset
+
+Title: AI Generated Text Detection - Tfidf + SGD
+ URL: https://www.kaggle.com/code/thomasmeiner/ai-generated-text-detection-tfidf-sgd
+
+Title: LLMDet:A LLM Generated Text Detection Tool
+ URL: https://www.kaggle.com/code/x75a40890/llmdet-a-llm-generated-text-detection-tool
+
+Title: AI generated text EDA
+ URL: https://www.kaggle.com/code/kuntalpal/ai-generated-text-eda
+
+Title: Quick EDA on "7 prompt train dataset" (v4)
+ URL: https://www.kaggle.com/code/pamin2222/quick-eda-on-7-prompt-train-dataset-v4
+
+Title: Llama Logits 🦙📊 Towards an Explainable Solution
+ URL: https://www.kaggle.com/code/maxperozek/llama-logits-towards-an-explainable-solution
+
+Title: How to use language-tool-python without internet
+ URL: https://www.kaggle.com/code/yeoyunsianggeremie/how-to-use-language-tool-python-without-internet
+
+Title: Starter Notebook DetectAI GalsenAI
+ URL: https://www.kaggle.com/code/vonewman/starter-notebook-detectai-galsenai
+
+Title: Detect AI Generated Text: XGBoost 2.0 starter
+ URL: https://www.kaggle.com/code/carlmcbrideellis/detect-ai-generated-text-xgboost-2-0-starter
+
+Title: LLM - Detect by classification
+ URL: https://www.kaggle.com/code/shuvojitdas/llm-detect-by-classification
+
+Title: Fix imbalance data using generated essay by PaLM!
+ URL: https://www.kaggle.com/code/kingki19/fix-imbalance-data-using-generated-essay-by-palm
+
+Title: llama 2 inference 13B
+ URL: https://www.kaggle.com/code/defdet/llama-2-inference-13b
+
+Title: AI Generated Text Detection - Quick Baselin bc5607
+ URL: https://www.kaggle.com/code/fuuaad/ai-generated-text-detection-quick-baselin-bc5607
+
+Title: 🍤 AI Text Detection With Huggingface🎭 API
+ URL: https://www.kaggle.com/code/iftekharalammitu/ai-text-detection-with-huggingface-api
+
+Title: AI Generated Text Detection - Quick Baseline
+ URL: https://www.kaggle.com/code/rsuhara/ai-generated-text-detection-quick-baseline
+
+Title: Beginner Notebook
+ URL: https://www.kaggle.com/code/vujjinisravya/beginner-notebook
+
+Title: AI Detector With Tf & Keras
+ URL: https://www.kaggle.com/code/luficergfree/ai-detector-with-tf-keras
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/gowthamrajgoku/llm-detect-ai-generated-text
+
+Title: chall
+ URL: https://www.kaggle.com/code/mohamedmoustache/chall
+
+Title: AutoLLM GPT2- AI Generated Text
+ URL: https://www.kaggle.com/code/jocelyndumlao/autollm-gpt2-ai-generated-text
+
+Title: Compare train.csv and ChatGPT generated
+ URL: https://www.kaggle.com/code/andpdas/compare-train-csv-and-chatgpt-generated
+
+Title: study note:LLM  detect AI text
+ URL: https://www.kaggle.com/code/yunsuxiaozi/study-note-llm-detect-ai-text
+
+Title: Create essays with chatGPT through API
+ URL: https://www.kaggle.com/code/defdet/create-essays-with-chatgpt-through-api
+
+Title: test_llm_essays_detect
+ URL: https://www.kaggle.com/code/wuxixixi/test-llm-essays-detect
+
+Title: Based onAI or Not AI? Delving Into Essays with EDA
+ URL: https://www.kaggle.com/code/koheiedwardyamada/based-onai-or-not-ai-delving-into-essays-with-eda
+
+Title: First look 👀 + EDA! 📈 + Baseline
+ URL: https://www.kaggle.com/code/awaldeep/first-look-eda-baseline
+
+Title: GLTR Paper Implementation(Detecting LLM Gen. Text)
+ URL: https://www.kaggle.com/code/ilankhirin/gltr-paper-implementation-detecting-llm-gen-text
+
+Title: Super short tik token
+ URL: https://www.kaggle.com/code/andpdas/super-short-tik-token
+
+Title: LLAMA 2 13B on TPU (Training)
+ URL: https://www.kaggle.com/code/defdet/llama-2-13b-on-tpu-training
+
+Title: Naive Submission [TRAIN]
+ URL: https://www.kaggle.com/code/bguberfain/naive-submission-train
+
+Title: Naive Submission [SUBMIT]
+ URL: https://www.kaggle.com/code/bguberfain/naive-submission-submit
+
+Title: Sneaky Llama2 Rules!
+ URL: https://www.kaggle.com/code/mpwolke/sneaky-llama2-rules
+
+Title: Understanding Detect-AI & EDA 💡
+ URL: https://www.kaggle.com/code/sb0702/understanding-detect-ai-eda
+
+Title: Find Typos - 0.714 LB in 14 lines of code
+ URL: https://www.kaggle.com/code/narsil/find-typos-0-714-lb-in-14-lines-of-code
+
+Title: AI_Generated_Essay_Prediction_EDA
+ URL: https://www.kaggle.com/code/prithviraj7387/ai-generated-essay-prediction-eda
+
+Title: Grammar Correction Detect AI
+ URL: https://www.kaggle.com/code/defdet/grammar-correction-detect-ai
+
+Title: Data Understanding
+ URL: https://www.kaggle.com/code/minhtien1405/data-understanding
+
+Title: AI Generated Text torch RoBERTa
+ URL: https://www.kaggle.com/code/stpeteishii/ai-generated-text-torch-roberta
+
+Title: AI Generated Text Detection - Quick Baseline
+ URL: https://www.kaggle.com/code/x75a40890/ai-generated-text-detection-quick-baseline
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/vidhikishorwaghela/llm-detect-ai-generated-text
+
+Title: Alpaca LLM Flan-T5 Zero Shot
+ URL: https://www.kaggle.com/code/mpwolke/alpaca-llm-flan-t5-zero-shot
+
+Title: LLM: Make 7 prompt train dataset (v4)
+ URL: https://www.kaggle.com/code/carlmcbrideellis/llm-make-7-prompt-train-dataset-v4
+
+Title: DetectAI transformers baseline
+ URL: https://www.kaggle.com/code/eurekaforward/detectai-transformers-baseline
+
+Title: 🔮 One Magic Feature - No Model (TAG=PRP)
+ URL: https://www.kaggle.com/code/ianchute/one-magic-feature-no-model-tag-prp
+
+Title: 🤖 LLM - Detect AI Text | Starter Notebook 🚀
+ URL: https://www.kaggle.com/code/iqmansingh/llm-detect-ai-text-starter-notebook
+
+Title: AI Generated Text CountVectorizer + XGB
+ URL: https://www.kaggle.com/code/stpeteishii/ai-generated-text-countvectorizer-xgb
+
+Title: [DAIGT Script] ✍️ Example to generate AI essay.
+ URL: https://www.kaggle.com/code/mozattt/daigt-script-example-to-generate-ai-essay
+
+Title: DetectAI RoBERTa-large-ArguGPT Infer
+ URL: https://www.kaggle.com/code/thedrcat/detectai-roberta-large-argugpt-infer
+
+Title: Mistral Detecting AI LLM
+ URL: https://www.kaggle.com/code/mpwolke/mistral-detecting-ai-llm
+
+Title: CodeLlama from MP to MP
+ URL: https://www.kaggle.com/code/mpwolke/codellama-from-mp-to-mp
+
+Title: notebook5517d6f590
+ URL: https://www.kaggle.com/code/cofladl0908/notebook5517d6f590
+
+Title: Interesting Visualizations and Analytics
+ URL: https://www.kaggle.com/code/hridaym25/interesting-visualizations-and-analytics
+
+Title: Get to know the dataset in 60 seconds
+ URL: https://www.kaggle.com/code/tianmin/get-to-know-the-dataset-in-60-seconds
+
+Title: DAIGT | Deberta Text Classification [Inference]
+ URL: https://www.kaggle.com/code/alejopaullier/daigt-deberta-text-classification-inference
+
+Title: LLM - Detect by Regression
+ URL: https://www.kaggle.com/code/yekenot/llm-detect-by-regression
+
+Title: llm_ai_detect
+ URL: https://www.kaggle.com/code/roshansalunke/llm-ai-detect
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/saurabhru/llm-detect-ai-generated-text
+
+Title: AI Generated Text Detector
+ URL: https://www.kaggle.com/code/sytuannguyen/ai-generated-text-detector
+
+Title: AI Generated Text Detector with KerasNLP
+ URL: https://www.kaggle.com/code/lonnieqin/ai-generated-text-detector-with-kerasnlp
+
+Title: Trick-or-Treat Prompt
+ URL: https://www.kaggle.com/code/mpwolke/trick-or-treat-prompt
+
+Title: 🔍 📈 🧮 Detect AI Generated Text + External Datas
+ URL: https://www.kaggle.com/code/yavuzhanbaykara/detect-ai-generated-text-external-datas
+
+Title: Detect AI Generated Text
+ URL: https://www.kaggle.com/code/ragajaisanthosh/detect-ai-generated-text
+
+Title: DetectAI EDA
+ URL: https://www.kaggle.com/code/thedrcat/detectai-eda
+
+Title: Daigt=deberta=train
+ URL: https://www.kaggle.com/code/rsbuvan/daigt-deberta-train
+
+Title: DAIGT | Deberta Text Classification [Train]
+ URL: https://www.kaggle.com/code/alejopaullier/daigt-deberta-text-classification-train
+
+Title: LLM - Detect by Regression 042c46
+ URL: https://www.kaggle.com/code/nguynvnthtr/llm-detect-by-regression-042c46
+
+Title: detect-generated-text(baseline)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/detect-generated-text-baseline
+
+Title: EDA  | MOTH's Dataset 📜📦 | Detect AI 🤖
+ URL: https://www.kaggle.com/code/mustafakeser4/eda-moth-s-dataset-detect-ai
+
+Title: detect-generatedtext(welcome to this competition!)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/detect-generatedtext-welcome-to-this-competition
+
+Title: LLM - Detect by Regression 042c46
+ URL: https://www.kaggle.com/code/brianwilliamsma/llm-detect-by-regression-042c46
+
+Title: AI or Not AI? Delving Into Essays with EDA
+ URL: https://www.kaggle.com/code/pamin2222/ai-or-not-ai-delving-into-essays-with-eda
+
+Title: [infer]LLM detect AI comp Mistral-7B
+ URL: https://www.kaggle.com/code/hotchpotch/infer-llm-detect-ai-comp-mistral-7b
+
+Title: [train]LLM detect AI comp Mistral-7B
+ URL: https://www.kaggle.com/code/hotchpotch/train-llm-detect-ai-comp-mistral-7b
+
+Title: DetectAI transformers baseline
+ URL: https://www.kaggle.com/code/thedrcat/detectai-transformers-baseline
+
+Title: AI text detection on_kaggledata
+ URL: https://www.kaggle.com/code/pushpendramishra5027/ai-text-detection-on-kaggledata
+
+Title: AI text detection on kaggle data
+ URL: https://www.kaggle.com/code/pushpendramishra5027/ai-text-detection-on-kaggle-data
+
+Title: dlp-wheels
+ URL: https://www.kaggle.com/code/sumandas0/dlp-wheels
+
+Title: Detect AIGC - DeBERTa baseline 🤗
+ URL: https://www.kaggle.com/code/yeyuuu/detect-aigc-deberta-baseline
+
+Title: openai_generate_humanlike_data
+ URL: https://www.kaggle.com/code/rishavdash/openai-generate-humanlike-data
+
+Title: Choose your words wisely 3.0: Human vs. AI
+ URL: https://www.kaggle.com/code/valentinwerner/choose-your-words-wisely-3-0-human-vs-ai
+
+Title: NLP using GloVe Embeddings(99%>78%accuracy)
+ URL: https://www.kaggle.com/code/plarmuseau/nlp-using-glove-embeddings-99-78-accuracy
+
+Title: Pytorch Transformers Detectect AI Text Generated
+ URL: https://www.kaggle.com/code/harrynguyen0602/pytorch-transformers-detectect-ai-text-generated
+
+Title: [GPU Infer] Mistral-7b
+ URL: https://www.kaggle.com/code/lucyhe2/gpu-infer-mistral-7b
+
+Title: [Train]DetectAI DistilRoberta[0.913]👍
+ URL: https://www.kaggle.com/code/mustafakeser4/train-detectai-distilroberta-0-913
+
+Title: Detect AI Content With TensorFlow
+ URL: https://www.kaggle.com/code/derrickmwiti/detect-ai-content-with-tensorflow
+
+Title: Your_local_llm_Build_Your_Custom_DAIGT_data
+ URL: https://www.kaggle.com/code/hli111111/your-local-llm-build-your-custom-daigt-data
+
+Title: LLM_Competition
+ URL: https://www.kaggle.com/code/claudiojnior/llm-competition
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/rahulsehrawat/llm-detect-ai-generated-text
+
+Title: Fork of notebook1554722fbf
+ URL: https://www.kaggle.com/code/chintanvhparmar/fork-of-notebook1554722fbf
+
+Title: QLoRA Fine-Tuning with DistilBERT(daigt-v2)
+ URL: https://www.kaggle.com/code/anthonynam/qlora-fine-tuning-with-distilbert-daigt-v2
+
+Title: train_models
+ URL: https://www.kaggle.com/code/ttopos/train-models
+
+Title: notebook56ae1f78de
+ URL: https://www.kaggle.com/code/quanminh11/notebook56ae1f78de
+
+Title: LoRa Fine-Tuning with RoBERTa (daigt-v2)
+ URL: https://www.kaggle.com/code/anthonynam/lora-fine-tuning-with-roberta-daigt-v2
+
+Title: Simple Word2Vec
+ URL: https://www.kaggle.com/code/akshatshaw7/simple-word2vec
+
+Title: llm_demo1
+ URL: https://www.kaggle.com/code/burakyener/llm-demo1
+
+Title: improved submission
+ URL: https://www.kaggle.com/code/paradoxplusparadise/improved-submission
+
+Title: notebookd5de7ba397
+ URL: https://www.kaggle.com/code/solomonschwiger/notebookd5de7ba397
+
+Title: DetectAI transformers baseline
+ URL: https://www.kaggle.com/code/alihasnainch/detectai-transformers-baseline
+
+Title: notebookd5de7ba397
+ URL: https://www.kaggle.com/code/avdyveyg/notebookd5de7ba397
+
+Title: Explained LLM Model 285481
+ URL: https://www.kaggle.com/code/zhenxianglin/explained-llm-model-285481
+
+Title: DetectAI transformers baseline
+ URL: https://www.kaggle.com/code/zhangxiaojie6/detectai-transformers-baseline
+
+Title: Simple tf-idf from basics
+ URL: https://www.kaggle.com/code/akshatshaw7/simple-tf-idf-from-basics
+
+Title: llm_detect_ai_generated_text
+ URL: https://www.kaggle.com/code/nguyentuannguyen/llm-detect-ai-generated-text
+
+Title: Train your own Tokenizer
+ URL: https://www.kaggle.com/code/aphysict/train-your-own-tokenizer
+
+Title: LoRa Fine-Tuning with DistilBERT(daigt-v2)
+ URL: https://www.kaggle.com/code/anthonynam/lora-fine-tuning-with-distilbert-daigt-v2
+
+Title: LLM - Detect AI Generate
+ URL: https://www.kaggle.com/code/diogodsa/llm-detect-ai-generate
+
+Title: Detect Ai generated text 99 accuracy
+ URL: https://www.kaggle.com/code/madara00/detect-ai-generated-text-99-accuracy
+
+Title: Sentence embedding detection
+ URL: https://www.kaggle.com/code/joonyeongs/sentence-embedding-detection
+
+Title: LLM DAIGT: Find edge case
+ URL: https://www.kaggle.com/code/batprem/llm-daigt-find-edge-case
+
+Title: More Tuning Detecting AI Generated Text
+ URL: https://www.kaggle.com/code/shrutimechlearn/more-tuning-detecting-ai-generated-text
+
+Title: work_is_going_on
+ URL: https://www.kaggle.com/code/garvsethi/work-is-going-on
+
+Title: 0.961 score
+ URL: https://www.kaggle.com/code/malabhbakshi/0-961-score
+
+Title: Detect AI Generated Text
+ URL: https://www.kaggle.com/code/fengshaodi/detect-ai-generated-text
+
+Title: notebookf62b5e9770
+ URL: https://www.kaggle.com/code/gopalakrishnankumar/notebookf62b5e9770
+
+Title: AI-Text Detection BERT model
+ URL: https://www.kaggle.com/code/paradoxplusparadise/ai-text-detection-bert-model
+
+Title: notebook7976a6af8d
+ URL: https://www.kaggle.com/code/gopalakrishnankumar/notebook7976a6af8d
+
+Title: RoBERTa(10epoch)
+ URL: https://www.kaggle.com/code/highjay/roberta-10epoch
+
+Title: notebook67a9e1e1ce
+ URL: https://www.kaggle.com/code/gopalakrishnankumar/notebook67a9e1e1ce
+
+Title: DistilBert (Base Notebook)
+ URL: https://www.kaggle.com/code/shaikikozashvili/distilbert-base-notebook
+
+Title: SP+AM+BW_001
+ URL: https://www.kaggle.com/code/oortcloudk/sp-am-bw-001
+
+Title: Detect txt Scikit, LogisticReg, Roc
+ URL: https://www.kaggle.com/code/asmasohail/detect-txt-scikit-logisticreg-roc
+
+Title: TF-IDF with simple NN- JYW version
+ URL: https://www.kaggle.com/code/jwjane/tf-idf-with-simple-nn-jyw-version
+
+Title: Bert-GAN Detect AI Generated Text
+ URL: https://www.kaggle.com/code/okadarowout/bert-gan-detect-ai-generated-text
+
+Title: LoRa Fine-Tuning with DistilBERT(7-prompts-v4)
+ URL: https://www.kaggle.com/code/anthonynam/lora-fine-tuning-with-distilbert-7-prompts-v4
+
+Title: LLAMA 2 13B on TPU (Training)
+ URL: https://www.kaggle.com/code/rkuo2000/llama-2-13b-on-tpu-training
+
+Title: Detect Fake Text
+ URL: https://www.kaggle.com/code/bromotdi/detect-fake-text
+
+Title: debbeet
+ URL: https://www.kaggle.com/code/chengfg/debbeet
+
+Title: notebook4687b0aee0
+ URL: https://www.kaggle.com/code/rakasinghssdfsf/notebook4687b0aee0
+
+Title: [GAN]Discrim_Train
+ URL: https://www.kaggle.com/code/heiswicked/gan-discrim-train
+
+Title: Generate Synthetic Essays with Mistral-7B I 11a9e5
+ URL: https://www.kaggle.com/code/kyriakitychola/generate-synthetic-essays-with-mistral-7b-i-11a9e5
+
+Title: Tensorflow NN generate essays
+ URL: https://www.kaggle.com/code/kyriakitychola/tensorflow-nn-generate-essays
+
+Title: My code Αl or not essays
+ URL: https://www.kaggle.com/code/kyriakitychola/my-code-l-or-not-essays
+
+Title: Detect AI DeBERTa PyTorch [Train + Infer]
+ URL: https://www.kaggle.com/code/kyriakitychola/detect-ai-deberta-pytorch-train-infer
+
+Title: My code KerasNLP LLM - Detect AI Generate
+ URL: https://www.kaggle.com/code/kyriakitychola/my-code-kerasnlp-llm-detect-ai-generate
+
+Title: Sample submission
+ URL: https://www.kaggle.com/code/danfazzi/sample-submission
+
+Title: [BCE]Discrim_Train
+ URL: https://www.kaggle.com/code/heiswicked/bce-discrim-train
+
+Title: NM-LLM-AI-Detect-MetricModel-2
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-ai-detect-metricmodel-2
+
+Title: detect-ai-generated-tfidf-stylometry
+ URL: https://www.kaggle.com/code/scottnewcomer/detect-ai-generated-tfidf-stylometry
+
+Title: NM-LLM-AI-Detect-MetricModel-inf
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-ai-detect-metricmodel-inf
+
+Title: LLM DAIGT Sub  8ae3af
+ URL: https://www.kaggle.com/code/csmimrankhan/llm-daigt-sub-8ae3af
+
+Title: Initial
+ URL: https://www.kaggle.com/code/vinodpgowda/initial
+
+Title: NB_predict
+ URL: https://www.kaggle.com/code/aditrichaudhari/nb-predict
+
+Title: notebookf77ea9241a
+ URL: https://www.kaggle.com/code/burakyener/notebookf77ea9241a
+
+Title: Project Tekcertan Training Roberta
+ URL: https://www.kaggle.com/code/suandikanapitupulu/project-tekcertan-training-roberta
+
+Title: AuthentiGPT trial 'w roBERTa
+ URL: https://www.kaggle.com/code/sjorslockhorst/authentigpt-trial-w-roberta
+
+Title: LLM - Detect Text - Mistral
+ URL: https://www.kaggle.com/code/muhannadmansour/llm-detect-text-mistral
+
+Title: dagi gptpp
+ URL: https://www.kaggle.com/code/bulivington/dagi-gptpp
+
+Title: minorProject
+ URL: https://www.kaggle.com/code/robinsingh301/minorproject
+
+Title: AI Gen Text Ident, Multiple Model Training - Shaun
+ URL: https://www.kaggle.com/code/shaunshibu/ai-gen-text-ident-multiple-model-training-shaun
+
+Title: berta_lora
+ URL: https://www.kaggle.com/code/kimmingu333/berta-lora
+
+Title: LLM-Detect AI generated Essays
+ URL: https://www.kaggle.com/code/imnandini/llm-detect-ai-generated-essays
+
+Title: DetectLLM_1128
+ URL: https://www.kaggle.com/code/kokishirasawa/detectllm-1128
+
+Title: llmd-DeBERTa-base-ft-v1
+ URL: https://www.kaggle.com/code/bestpredict/llmd-deberta-base-ft-v1
+
+Title: mistral-7b-dolly
+ URL: https://www.kaggle.com/code/ducnh279/mistral-7b-dolly
+
+Title: AI or Academia: Unraveling Text Origins with Disti
+ URL: https://www.kaggle.com/code/blohorn/ai-or-academia-unraveling-text-origins-with-disti
+
+Title: llama_cpp00
+ URL: https://www.kaggle.com/code/simonveitner/llama-cpp00
+
+Title: Detect LLM generated essays using Retention
+ URL: https://www.kaggle.com/code/vineetjhaa03/detect-llm-generated-essays-using-retention
+
+Title: Ensemble Bert_LoRA
+ URL: https://www.kaggle.com/code/nyl0522/ensemble-bert-lora
+
+Title: DAIGT Mistral-7B TPU BFloat16 [Inference]
+ URL: https://www.kaggle.com/code/yoolimhan/daigt-mistral-7b-tpu-bfloat16-inference
+
+Title: NM-LLM-Detect-AI-Text-Typo-Correct-with testdata
+ URL: https://www.kaggle.com/code/c4nter/nm-llm-detect-ai-text-typo-correct-with-testdata
+
+Title: notebook25112023
+ URL: https://www.kaggle.com/code/deepsh2207/notebook25112023
+
+Title: Distill Bert
+ URL: https://www.kaggle.com/code/nyl0522/distill-bert
+
+Title: LLM_vs_Student
+ URL: https://www.kaggle.com/code/sonu2252/llm-vs-student
+
+Title: Comprehensive Evaluation of POS Tags
+ URL: https://www.kaggle.com/code/vaibhavnakrani/comprehensive-evaluation-of-pos-tags
+
+Title: hodgins_LLM_testset
+ URL: https://www.kaggle.com/code/vincenthodgins/hodgins-llm-testset
+
+Title: NM-LLM-AI-Detect-Training-with-typos
+ URL: https://www.kaggle.com/code/murugesann/nm-llm-ai-detect-training-with-typos
+
+Title: hodgins_LLM
+ URL: https://www.kaggle.com/code/vincenthodgins/hodgins-llm
+
+Title: AI Generated Text Detection with MLPClassifier
+ URL: https://www.kaggle.com/code/lonnieqin/ai-generated-text-detection-with-mlpclassifier
+
+Title: TfidfVec:1,6 FixSpelling SGDClassifier
+ URL: https://www.kaggle.com/code/al1337/tfidfvec-1-6-fixspelling-sgdclassifier
+
+Title: AI Generated Text Detection - Quick Baseline
+ URL: https://www.kaggle.com/code/yutarohori/ai-generated-text-detection-quick-baseline
+
+Title: NEWSTART3 - DNN and TFIDF and SC for df
+ URL: https://www.kaggle.com/code/donghunlim/newstart3-dnn-and-tfidf-and-sc-for-df
+
+Title: DNN and TFIDF fit only on train 0.923
+ URL: https://www.kaggle.com/code/pamin2222/dnn-and-tfidf-fit-only-on-train-0-923
+
+Title: 📕LLM - Detect AI Generated Text|v1-Bert
+ URL: https://www.kaggle.com/code/humbleyll/llm-detect-ai-generated-text-v1-bert
+
+Title: Pytorch Lightning DistilBert Classifier
+ URL: https://www.kaggle.com/code/deltawi/pytorch-lightning-distilbert-classifier
+
+Title: notebookc709586748
+ URL: https://www.kaggle.com/code/soranoki/notebookc709586748
+
+Title: Public Model
+ URL: https://www.kaggle.com/code/junglebeastds/public-model
+
+Title: KAGGLE_EDA
+ URL: https://www.kaggle.com/code/yothinsaengs/kaggle-eda
+
+Title: notebook18112023
+ URL: https://www.kaggle.com/code/deepsh2207/notebook18112023
+
+Title: AI Generated Text Detection-test feature[0.911]
+ URL: https://www.kaggle.com/code/frederickgyllenhaal/ai-generated-text-detection-test-feature-0-911
+
+Title: llm_detect_ai
+ URL: https://www.kaggle.com/code/rakeshsharma02/llm-detect-ai
+
+Title: Mistral_test
+ URL: https://www.kaggle.com/code/robber19/mistral-test
+
+Title: LLM-Detect AI Generated Text - TFIDF
+ URL: https://www.kaggle.com/code/sunilthite/llm-detect-ai-generated-text-tfidf
+
+Title: Simple Roberta-tf
+ URL: https://www.kaggle.com/code/kanishk026/simple-roberta-tf
+
+Title: LLM- Detect AI Generated Text - BERT-L-12-H-768
+ URL: https://www.kaggle.com/code/sunilthite/llm-detect-ai-generated-text-bert-l-12-h-768
+
+Title: find lorenz bias
+ URL: https://www.kaggle.com/code/plarmuseau/find-lorenz-bias
+
+Title: Detect AI Generated Text - VotingClassifier
+ URL: https://www.kaggle.com/code/sunilthite/detect-ai-generated-text-votingclassifier
+
+Title: notebook39d3bf9d3f
+ URL: https://www.kaggle.com/code/gopalakrishnankumar/notebook39d3bf9d3f
+
+Title: NLP Analysis of LLMs & Students essays
+ URL: https://www.kaggle.com/code/kevinbnisch/nlp-analysis-of-llms-students-essays
+
+Title: TFIDF and Typo/syllable length analysis
+ URL: https://www.kaggle.com/code/milantokic/tfidf-and-typo-syllable-length-analysis
+
+Title: AI Generated Text Detection with DNN and TFIDF
+ URL: https://www.kaggle.com/code/lonnieqin/ai-generated-text-detection-with-dnn-and-tfidf
+
+Title: LLM 2023 nb: EDA
+ URL: https://www.kaggle.com/code/ilyalion/llm-2023-nb-eda
+
+Title: Detect AI Generated
+ URL: https://www.kaggle.com/code/susangrapes/detect-ai-generated
+
+Title: LLM or Student
+ URL: https://www.kaggle.com/code/upesshreya/llm-or-student
+
+Title: LLM-Detect AI Generated Text Using Word2Vec
+ URL: https://www.kaggle.com/code/sunilthite/llm-detect-ai-generated-text-using-word2vec
+
+Title: Sneaky Llama2 Rules!
+ URL: https://www.kaggle.com/code/nithya2025/sneaky-llama2-rules
+
+Title: AI Generated Text Using BERT ROC-PR Curve
+ URL: https://www.kaggle.com/code/sunilthite/ai-generated-text-using-bert-roc-pr-curve
+
+Title: LLM - Detect AI Generated Text Using BERT
+ URL: https://www.kaggle.com/code/sunilthite/llm-detect-ai-generated-text-using-bert
+
+Title: LLM - Detect AI Generated Text Using RNN - LSTM
+ URL: https://www.kaggle.com/code/sunilthite/llm-detect-ai-generated-text-using-rnn-lstm
+
+Title: AI Essay or Not Using SVM
+ URL: https://www.kaggle.com/code/sunilthite/ai-essay-or-not-using-svm
+
+Title: LLM - Detect AI Generated Text
+ URL: https://www.kaggle.com/code/sunilthite/llm-detect-ai-generated-text
+
+Title: Simpla EDA
+ URL: https://www.kaggle.com/code/takeshiiijima/simpla-eda
+
+Title: anti-ChatGPT🤖✍️
+ URL: https://www.kaggle.com/code/rui314/anti-chatgpt
+
+Title: 🤖 LLM Detect AI 📜 Baseline ⚡
+ URL: https://www.kaggle.com/code/cybersimar08/llm-detect-ai-baseline
+
+Title: [Inference]LongFormers:Score improve 0.735->0.823
+ URL: https://www.kaggle.com/code/myncoder0908/inference-longformers-score-improve-0-735-0-823
+
+Title: LLM Analysis and Prediction
+ URL: https://www.kaggle.com/code/jocelyndumlao/llm-analysis-and-prediction
+
+Title: Predicting Essay Generated with Custom Features
+ URL: https://www.kaggle.com/code/guidosalimbeni/predicting-essay-generated-with-custom-features
+
+Title: Deep embedding model-transfer learning
+ URL: https://www.kaggle.com/code/talmanr/deep-embedding-model-transfer-learning
+
+Title: 🤖 Detect AI Text | 🚀 OOF XGB+LGBM+Cat | TF-IDF
+ URL: https://www.kaggle.com/code/iqmansingh/detect-ai-text-oof-xgb-lgbm-cat-tf-idf
+
+Title: [infer]llm_detect_exp001
+ URL: https://www.kaggle.com/code/leehann/infer-llm-detect-exp001
+
+Title: Deberta xsmall training with processed ds
+ URL: https://www.kaggle.com/code/defdet/deberta-xsmall-training-with-processed-ds
+
+Title: (0.701) XGBoost Baseline + Extra Data  v2
+ URL: https://www.kaggle.com/code/thomasrochefort/0-701-xgboost-baseline-extra-data-v2
+
+Title: my_notebook_LLM_detect_baseline
+ URL: https://www.kaggle.com/code/tlisted/my-notebook-llm-detect-baseline
+
+Title: daigt-deberta-train1
+ URL: https://www.kaggle.com/code/rsbuvan/daigt-deberta-train1
+
+Title: 0.805:DetectAI simple baseline
+ URL: https://www.kaggle.com/code/shadie520/0-805-detectai-simple-baseline
+
+Title: LLM - Detect by Regression
+ URL: https://www.kaggle.com/code/brianwilliamsma/llm-detect-by-regression
+
+Title: (0.683) LogisticRegression Baseline + ExtraData
+ URL: https://www.kaggle.com/code/thomasrochefort/0-683-logisticregression-baseline-extradata
+
+Title: LLM Gen Text: DistilBERT train & text comparisons
+ URL: https://www.kaggle.com/code/andradaolteanu/llm-gen-text-distilbert-train-text-comparisons
+
