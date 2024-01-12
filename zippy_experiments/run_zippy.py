@@ -32,7 +32,7 @@ if __name__ == "__main__":
 
             print(pred)
             predictions.append(
-                pred[0]
+                pred[1]
             )  # ? what is the meaning of the second output of pred?
             targets.append(row["generated"])
             os.remove(f"{index}.txt")
@@ -44,7 +44,10 @@ if __name__ == "__main__":
     # compare the accuracy of the predication with the ground truth
     # TODO: get a better way to retrieve the prediction
     # TODO: convert confidence to probability for calculating the AOC score
-    predictions = [0 if "Human" in pred else 1 for pred in predictions]
+    # predictions = [0 if "Human" in pred else 1 for pred in predictions]
+
+    # assert the data type of pred is float
+    assert isinstance(predictions[0], float)
 
     predictions = np.array(predictions)
     targets = np.array(targets)
