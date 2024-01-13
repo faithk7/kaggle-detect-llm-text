@@ -1,3 +1,7 @@
+import hashlib
+import time
+
+import neptune
 import pandas as pd
 import xgboost as xgb
 from sklearn.metrics import roc_auc_score
@@ -43,6 +47,11 @@ def train(X, y):
 if __name__ == "__main__":
     essays, labels = get_data()
 
+    run = neptune.init_run(
+        name="this is a test",
+        project="faithk7/detect-llm-text",
+    )
+
     # Convert essays to format suitable for XGBoost
     X = tokenize_texts(essays)
 
@@ -58,3 +67,5 @@ if __name__ == "__main__":
     y_pred = model.predict_proba(X_test)[:, 1]  # Get probability predictions
     auc_score = roc_auc_score(y_test, y_pred)
     print(f"AUC Score: {auc_score}")
+
+    run.stop()
